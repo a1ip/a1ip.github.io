@@ -4,6 +4,7 @@ description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"http
 permalink: /:title/
 lang: "en"
 date_format: "%B %d, %Y"
+baseurl: "/contrast/" # does not include hostname
 
 # Layout
 
