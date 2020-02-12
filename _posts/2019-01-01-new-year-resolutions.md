@@ -5,7 +5,7 @@ date: 2019-01-01
 lastmod: 2019-01-01
 keywords: обещаю, прожить
 author: Phil Rigovanov
-template: post.jade
+draft: true
 ---
 
 - Я обещаю прочитать Библию за 2019 год, читая по четыре главы в день.
