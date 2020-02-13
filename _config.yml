@@ -48,3 +48,13 @@ defaults:
     values:
       sitemap:
         exclude: "yes"
+    scope:
+      path: "404.html" # Exclude from sitemap.xml
+    values:
+      sitemap:
+        exclude: "yes"
+    scope:
+      path: "README.md" # Exclude from sitemap.xml
+    values:
+      sitemap:
+        exclude: "yes"
