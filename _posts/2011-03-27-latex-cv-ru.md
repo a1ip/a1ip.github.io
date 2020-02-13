@@ -5,7 +5,6 @@ date: 2011-03-27
 description: Резюме в LaTeX на русском, решение проблемы с кодировкой
 keywords: резюме, LaTeX, шаблон, файл, curriculum vitae, кодировка, локализация, юникод, utf8, пакет, проблемы, Ubuntu, tex
 author: Phil Rigovanov
-template: post.jade
 ---
 
 Для того чтобы при оформлении использовать класс [moderncv](http://www.ctan.org/tex-archive/macros/latex/contrib/moderncv/), нужно скачать пакет [moderncv.zip](http://mirror.ctan.org/macros/latex/contrib/moderncv.zip), распаковать, а _.tex_ файл с вашим резюме должен находиться в той же директории что и файл _moderncv.cls_   и файлы _.sty_ .
