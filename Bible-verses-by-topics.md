@@ -5,7 +5,7 @@ comments: false
 sharing: true
 footer: false
 keywords: Библия, золотые стихи
-template: stuff.jade
+layout: page
 ---
 # Золотые стихи Библии по темам
 #### Оглавление
