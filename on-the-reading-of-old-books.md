@@ -6,7 +6,7 @@ sharing: true
 footer: false
 keywords: Клайв Стейплз Льюис, книги, чтение
 author: Клайв Стейплз Льюис
-template: stuff.jade
+layout: page
 ---
 
 # О старинных книгах
