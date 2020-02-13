@@ -7,7 +7,7 @@ footer: false
 keywords: язык, программа
 author: Курсков С.Ю.
 private: true
-template: stuff.jade
+layout: page
 ---
 
 ## ВВЕДЕНИЕ В ЯЗЫК СИ
