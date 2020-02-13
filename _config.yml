@@ -6,6 +6,9 @@ lang: "en"
 date_format: "%B %d, %Y"
 # baseurl: "/contrast/" # does not include hostname
 
+links:
+  church: "http://novchurch.ru/"
+
 # Layout
 
 sidebar: true                # show a sidebar instead of the usual header
