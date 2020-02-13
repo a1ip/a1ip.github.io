@@ -6,7 +6,7 @@ sharing: true
 footer: false
 keywords: Клайв Стейплз Льюис, слава, христианин, награда, Христос, Наталья Леонидовна Трауберг
 author: Клайв Стейплз Льюис
-template: stuff.jade
+layout: page
 ---
 
 ## Бремя славы
