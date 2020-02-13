@@ -6,7 +6,7 @@ sharing: true
 footer: false
 keywords: Джонатан Эдвардс, грешники, Бог, гнев, суд, спасение
 author: Джонатан Эдвардс
-template: stuff.jade
+layout: page
 ---
 
 # Грешники в руках разгневанного Бога
