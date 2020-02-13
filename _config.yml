@@ -30,6 +30,7 @@ external:                    # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:phil@rigovanov.ru"}
   - {title: Github, icon: github, url: "https://github.com/a1ip"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: "Bible.com", icon: bible, url: "https://my.bible.com/users/a1ip"}
   - {title: Instagram, icon: instagram, url: "https://instagram.com/a1ip"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/phil_rigovanov"}
   - {title: Facebook, icon: facebook, url: "https://facebook.com/rigovanov"}
