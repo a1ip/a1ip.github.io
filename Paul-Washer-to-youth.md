@@ -6,7 +6,7 @@ sharing: true
 footer: false
 keywords: Пол Вошер, молодёжь, миссия, молитва, интернет, блоггеры
 author: Пол Вошер
-template: stuff.jade
+layout: page
 ---
 
 # Призыв Пола Вошера к молодым людям
