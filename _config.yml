@@ -27,7 +27,7 @@ minimal: false               # use simpler style
 navigation:
   - {file: "index.html", icon: home}
   - {file: "about.md", icon: address-card}
-  - {file: "library.md", icon: book-open} # need to add link to http://rigovanov.ru/cv/
+  - {file: "library.md", icon: book-open} # need to add link to http://rigovanov.ru/cv/  fontawesome icons for cv: id-card, newspaper, money-check
 
 external:                    # see http://fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/a1ip"}
