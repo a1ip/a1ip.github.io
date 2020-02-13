@@ -5,7 +5,7 @@ comments: false
 sharing: true
 footer: false
 keywords: Библия, словарь, слова
-template: stuff.jade
+layout: page
 ---
 
 # Библейский словарь
