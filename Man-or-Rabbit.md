@@ -6,7 +6,7 @@ sharing: true
 footer: false
 keywords: Клайв Стейплз Льюис, христианство, Бог, рождение свыше, спасение
 author: Клайв Стейплз Льюис
-template: stuff.jade
+layout: page
 ---
 
 # Человек или кролик
