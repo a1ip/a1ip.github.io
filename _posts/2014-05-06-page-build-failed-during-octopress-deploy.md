@@ -5,7 +5,6 @@ date: 2014-05-06
 comments: true
 description: Error "Page build failed" during blog powered by Octopress deploy
 categories: [error, ruby, octopress, deploying, rake, Github Pages]
-template: post.jade
 ---
 
 В какой-то момент у меня возникли проблемы с размещением моего [powered by Octopress](http://octopress.org) блога на [Github Pages](https://pages.github.com/):
