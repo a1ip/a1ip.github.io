@@ -43,3 +43,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
+
+# For sitemap.xml
+exclude:
+  - assets
