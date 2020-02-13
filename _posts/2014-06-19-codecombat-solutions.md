@@ -8,7 +8,6 @@ keywords: CodeCombat, solutions, CoffeeScript, JavaScript, Campaign, Levels, Alg
 comments: true
 categories: [programming, code, solutions, Literate CoffeeScript, CoffeeScript, JavaScript, learning, English]
 changefreq: monthly
-template: post.jade
 ---
 
 Here are some gists with my solutions in [CoffeeScript](http://coffeescript.org) and in JavaScript programming languages:
