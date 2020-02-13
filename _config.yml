@@ -24,29 +24,13 @@ minimal: false               # use simpler style
 navigation:
   - {file: "index.html", icon: home}
   - {file: "about.md", icon: address-card}
-  - {file: "library.md", icon: book-open}
+  - {file: "library.md", icon: book-open} # need to add link to http://rigovanov.ru/cv/
 
 external:                    # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:phil@rigovanov.ru"}
   - {title: Github, icon: github, url: "https://github.com/a1ip"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-  - {title: "Bible.com", icon: bible, url: "https://my.bible.com/users/a1ip"}
-  - {title: Instagram, icon: instagram, url: "https://instagram.com/a1ip"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/phil_rigovanov"}
-  - {title: Facebook, icon: facebook, url: "https://facebook.com/rigovanov"}
-  - {title: VK, icon: vk, url: "https://vk.com/rigovanov"}
-  - {title: "G+", icon: google-plus-g, url: "https://plus.google.com/u/0/+PhilippeRigovanov"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/rigovanov/"}
-  - {title: Dribbble, icon: dribbble, url: "https://dribbble.com/a1ip"}
-  - {title: Behance, icon: behance, url: "https://www.behance.net/rigovanov"}
-  - {title: Pinterest, icon: pinterest, url: "https://pinterest.com/philrigovanov/"}
-  - {title: Flickr, icon: flickr, url: "https://www.flickr.com/photos/a1ip/"}
-  - {title: 500px, icon: 500px, url: "https://500px.com/a1ip"}
-  - {title: YouTube, icon: youtube, url: "https://www.youtube.com/user/philrigovanov"}
-  - {title: Vimeo, icon: vimeo, url: "https://vimeo.com/rigovanov"}
-  - {title: SoundCloud, icon: soundcloud, url: "https://soundcloud.com/a1ip/"}
-  - {title: Twitch, icon: twitch, url: "https://www.twitch.tv/a1ip"}
-  - {title: Keybase, icon: keybase, url: "https://keybase.io/a1ip"}
+  - {title: "Bible.com", icon: bible, url: "https://my.bible.com/users/a1ip"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus: ""                # see https://disqus.com/
@@ -88,3 +72,26 @@ compress_html:
     
 sass:
   style: compressed
+
+
+socials:                    # see http://fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:phil@rigovanov.ru"}
+  - {title: Github, icon: github, url: "https://github.com/a1ip"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: "Bible.com", icon: bible, url: "https://my.bible.com/users/a1ip"}
+  - {title: Instagram, icon: instagram, url: "https://instagram.com/a1ip"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/phil_rigovanov"}
+  - {title: Facebook, icon: facebook, url: "https://facebook.com/rigovanov"}
+  - {title: VK, icon: vk, url: "https://vk.com/rigovanov"}
+  - {title: "G+", icon: google-plus-g, url: "https://plus.google.com/u/0/+PhilippeRigovanov"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/rigovanov/"}
+  - {title: Dribbble, icon: dribbble, url: "https://dribbble.com/a1ip"}
+  - {title: Behance, icon: behance, url: "https://www.behance.net/rigovanov"}
+  - {title: Pinterest, icon: pinterest, url: "https://pinterest.com/philrigovanov/"}
+  - {title: Flickr, icon: flickr, url: "https://www.flickr.com/photos/a1ip/"}
+  - {title: 500px, icon: 500px, url: "https://500px.com/a1ip"}
+  - {title: YouTube, icon: youtube, url: "https://www.youtube.com/user/philrigovanov"}
+  - {title: Vimeo, icon: vimeo, url: "https://vimeo.com/rigovanov"}
+  - {title: SoundCloud, icon: soundcloud, url: "https://soundcloud.com/a1ip/"}
+  - {title: Twitch, icon: twitch, url: "https://www.twitch.tv/a1ip"}
+  - {title: Keybase, icon: keybase, url: "https://keybase.io/a1ip"}
