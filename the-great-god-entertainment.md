@@ -5,7 +5,7 @@ comments: false
 sharing: true
 footer: false
 keywords: Эйден Уилсон Тозер, христианство, развлечения
-template: stuff.jade
+layout: page
 ---
 
 # Великий "бог" развлечения
