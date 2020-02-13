@@ -6,7 +6,7 @@ sharing: true
 footer: false
 keywords: Джонатан Эдвардс, резолюции, обещание, решено
 author: Джонатан Эдвардс
-template: stuff.jade
+layout: page
 ---
 
 # 70 резолюций
