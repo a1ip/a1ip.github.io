@@ -8,7 +8,7 @@ lastmod: 2018-07-18
 comments: true
 sharing: true
 footer: true
-template: stuff.jade
+layout: page
 ---
 
 ## Рекомендую к прочтению на русском языке:
