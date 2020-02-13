@@ -5,7 +5,7 @@ comments: true
 sharing: true
 footer: false
 keywords: Развод, брак, повторный брак
-template: stuff.jade
+layout: page
 ---
 # [Развод и Повторный Брак](http://www.cprf.co.uk/languages/russian_divorceremarriage.htm)
 
