@@ -6,7 +6,7 @@ sharing: true
 footer: false
 keywords: Клайв Стейплз Льюис, христианство, политика, Филарх, Маритэн
 author: Клайв Стейплз Льюис
-template: stuff.jade
+layout: page
 ---
 
 # Размышления о третьей заповеди
