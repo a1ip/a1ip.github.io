@@ -1,7 +1,6 @@
 ---
-title: "About"
-permalink: "/about/"
-layout: page
+sitemap:
+  exclude: 'yes'
 ---
 
 ## Installation
