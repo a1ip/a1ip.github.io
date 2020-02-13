@@ -6,7 +6,7 @@ sharing: true
 footer: false
 keywords: Клайв Стейплз Льюис, Псалмы, псалом, Мельхиседек, Ягве
 author: Клайв Стейплз Льюис
-template: stuff.jade
+layout: page
 ---
 
 # Размышления о псалмах
