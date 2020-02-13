@@ -11,4 +11,4 @@ layout: page
 
 My name is Philippe Rigovanov. I am an evangelical Textus Receptus Bible christian, interested in Data Visualisation, Data Analysis, Machine Learning and Web Technologies.
 
-You can find me here: <a href="{{ site.links.church }}" title="My Local Church"><svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#church"></use></svg> 
+You can find me here: <a href="{{ site.links.church }}" title="My Local Church"><svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#church"></use></svg></a> 
