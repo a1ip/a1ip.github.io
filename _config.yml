@@ -58,3 +58,12 @@ defaults:
     values:
       sitemap:
         exclude: "yes"
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  ignore:
+    envs: [local]
+    
+sass:
+  style: compressed
