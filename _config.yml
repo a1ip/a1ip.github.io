@@ -43,8 +43,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
-
-# For sitemap.xml
-sitemap:
-  exclude:
-    - assets
+    scope:
+      path: "assets" # Exclude from sitemap.xml
+    values:
+      exclude: "yes"
