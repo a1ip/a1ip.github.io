@@ -6,7 +6,7 @@ sharing: true
 footer: false
 keywords: Джон Буньян, путешествие, пилигрим, Бог, гнев, суд, спасение
 author: Джон Буньян
-template: stuff.jade
+layout: page
 ---
 
 ## «Путешествие Пилигрима в Небесную страну»
