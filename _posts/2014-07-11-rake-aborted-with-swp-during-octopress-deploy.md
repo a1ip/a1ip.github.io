@@ -5,7 +5,6 @@ date: 2014-07-11
 comments: true
 description: Ошибка "Exclude .swp files during Octopress deploy" в редакторе vim
 categories: [error, ruby, octopress, deploying, rake, vim]
-template: post.jade
 ---
 
 Я пользуюсь редактором [Vim](http://www.vim.org) для того чтобы писать в своём блоге [powered by Octopress](http://octopress.org).
