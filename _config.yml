@@ -45,5 +45,6 @@ defaults:
       image: true
 
 # For sitemap.xml
-exclude:
-  - assets
+sitemap:
+  exclude:
+    - assets
