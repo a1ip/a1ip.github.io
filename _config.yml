@@ -46,4 +46,5 @@ defaults:
     scope:
       path: "assets" # Exclude from sitemap.xml
     values:
-      exclude: "yes"
+      sitemap:
+        exclude: "yes"
