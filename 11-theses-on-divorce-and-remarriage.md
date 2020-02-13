@@ -7,7 +7,7 @@ comments: true
 sharing: true
 footer: false
 keywords: Развод, брак, повторный брак
-template: stuff.jade
+layout: page
 ---
 # [11 Тезисов о Супружестве, Разводе, Повторном Браке и Прелюбодеянии](http://www.cprf.co.uk/languages/russian_11theses.htm)
 
