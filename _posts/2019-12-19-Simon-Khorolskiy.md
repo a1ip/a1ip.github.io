@@ -68,14 +68,14 @@ title: Simon Khorolskiy
 
 {% include embed.html url="https://www.youtube.com/embed/eKUOqgoNjHo" %}
 
-Косари на лугу —  
-&nbsp;&nbsp;&nbsp;&nbsp;Размахалися острыми косами,  
-Что им Божий цветок,  
+Косари на лугу  
+&nbsp;&nbsp;&nbsp;&nbsp;Размахалися острыми косами.  
+Что им Божий цветок? —  
 &nbsp;&nbsp;&nbsp;&nbsp;Им бы кончить работу свою.  
 Я на милость Твою  
 &nbsp;&nbsp;&nbsp;&nbsp;Уповаю, Спаситель мой, Господи,  
 На милость, на милость  
-&nbsp;&nbsp;&nbsp;&nbsp;И только на милость Твою.
+&nbsp;&nbsp;&nbsp;&nbsp;Лишь только на милость Твою.
 
 Только вера в Тебя —  
 &nbsp;&nbsp;&nbsp;&nbsp;Вот моя неизменная спутница,  
@@ -89,7 +89,7 @@ title: Simon Khorolskiy
 А иначе зачем  
 &nbsp;&nbsp;&nbsp;&nbsp;Ты поил меня дивными росами,  
 Для чего показал  
-&nbsp;&nbsp;&nbsp;&nbsp;мне любовь и свою теплоту.  
+&nbsp;&nbsp;&nbsp;&nbsp;мне любовь и Свою теплоту?  
 Для чего Ты наполнил меня  
 &nbsp;&nbsp;&nbsp;&nbsp;Чудо-песнями, Господи?  
 Неужель для того, чтобы бросить  
