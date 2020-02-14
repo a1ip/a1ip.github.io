@@ -48,7 +48,7 @@ layout: page
 ## Textus Receptus
 
 <dl>
-<dt><a href="https://bible.by/blog/125/"  target="_blank">«О тексте Westcott and Hort (Уэсткотта и Хорта)».</a></dt>
+<dt><a href="{{ site.baseurl }}/Westcott-and-Hort/">«О тексте Westcott and Hort (Уэсткотта и Хорта)»</a>.</dt>
 <dd>Цитаты из личной переписки Уэсткотта и Хорта.</dd>
 <dt><a href="http://zdrawoe-uchenie-hristowo.net/ru/"  target="_blank">Сайт Андрея и Виктора Шмидтгаль.</a></dt>
 <dd>Содержит хорошие матералы по борьбе с лжеучениями, в том числе против кальвинизма, а так же защищающие Textus Receptus.</dd>
