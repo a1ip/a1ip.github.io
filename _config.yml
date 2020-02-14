@@ -32,6 +32,7 @@ navigation:
 external:                    # see http://fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/a1ip"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/phil_rigovanov"}
+  - {title: Tumblr, icon: tumblr, url: "https:rigovanov.tumblr.com"}
   - {title: "Bible.com", icon: bible, url: "https://my.bible.com/users/a1ip"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
@@ -86,6 +87,7 @@ socials:                    # see http://fontawesome.com/icons
   - {title: Twitter, icon: twitter, url: "https://twitter.com/phil_rigovanov"}
   - {title: Facebook, icon: facebook, url: "https://facebook.com/rigovanov"}
   - {title: VK, icon: vk, url: "https://vk.com/rigovanov"}
+  - {title: Tumblr, icon: tumblr, url: "https:rigovanov.tumblr.com"}
   - {title: "G+", icon: google-plus-g, url: "https://plus.google.com/u/0/+PhilippeRigovanov"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/rigovanov/"}
   - {title: Dribbble, icon: dribbble, url: "https://dribbble.com/a1ip"}
