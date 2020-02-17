@@ -18,6 +18,7 @@ layout: compress
 {% endif %}
 <link rel="stylesheet" href="{{ "/assets/css/classes.css" | relative_url }}">
 {% if site.sidebar %}<link rel="stylesheet" href="{{ "/assets/css/sidebar.css" | relative_url }}" media="screen and (min-width: 70em)">{% endif %}
+<link rel="stylesheet" href="{{ "/assets/css/gists.css" | relative_url }}">
 {% include icon.html %}
 {% if site.plugins contains "jekyll-feed" %}<link rel="alternate" href="{{ site.feed.path | default: "/feed.xml" | relative_url }}" type="application/atom+xml" title="{{ site.title }}">{% endif %}
 {% if page.mathjax or site.mathjax %}
