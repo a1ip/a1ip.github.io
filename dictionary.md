@@ -1,7 +1,7 @@
 ---
 title: Словарь непонятных слов Синодального перевода
 description: Словарь устаревших и непонятных слов Синодального перевода
-comments: false
+comments: true
 sharing: true
 footer: false
 keywords: Библия, словарь, слова
