@@ -1,5 +1,6 @@
 ---
 title: "About"
+lang: en
 keywords: about, blog
 description: About me and this site
 date: 2015-06-12
