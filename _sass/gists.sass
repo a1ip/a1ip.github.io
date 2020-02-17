@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans+Mono|Open+Sans')
+
+body .gist
+  font: 16px 'Open Sans', sans-serif
+
+  .gist-file
+    margin-bottom: 0
+    border: 1px dashed #adb5bd
+    border-radius: 0
+
+  .gist-data
+    border-bottom: none
+    border-radius: 0
+    background-color: #f1f3f5
+
+  .blob-wrapper
+    border-radius: 0
+
+  .highlight
+    background-color: transparent
+    font-family: 'Droid Sans Mono', monospace
+    font-size: 14px
+
+    td
+      padding: 5px 15px !important
+      line-height: 1
+      font-family: inherit
+      font-size: inherit
+
+  tr
+    &:first-child td
+      padding-top: 15px !important
+
+    &:last-child td
+      padding-bottom: 15px !important
+
+  .blob-num
+    color: #ced4da
+    background-color: #495057
+    pointer-events: none
+
+  .gist-meta
+    display: none
