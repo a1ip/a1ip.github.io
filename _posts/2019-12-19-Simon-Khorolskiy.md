@@ -1,5 +1,6 @@
 ---
 title: Simon Khorolskiy
+lang: ru
 ---
 ## Живущий под кровом Всевышнего (Псалом 90)
 
