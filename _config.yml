@@ -37,7 +37,7 @@ external:                    # see http://fontawesome.com/icons
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
-#  disqus: ""                # see https://disqus.com/
+  - disqus: "a1ip"                # see https://disqus.com/
 #  isso: ""                  # see https://posativ.org/isso/
 
 plugins:
