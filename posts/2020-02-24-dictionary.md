@@ -5,7 +5,7 @@ comments: true
 sharing: true
 footer: false
 keywords: Библия, словарь, слова
-layout: page
+layout: post
 ---
 
 [**Акри́ды**](https://ru.wiktionary.org/wiki/акрида) (Мф. 3:4) — род съедобной саранчи.
