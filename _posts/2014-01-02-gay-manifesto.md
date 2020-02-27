@@ -88,4 +88,4 @@ title: Гей-манифест
 
 Источник: [Russian Baptist Mission in Tampa Bay Area][1]
 
-[1]: https://www.youtube.com/channel/UCoypuf1N5VW88wJ54A4EWcw
+[1]: https://www.youtube.com/channel/UCoypuf1N5VW88wJ54A4EWcw/videos
