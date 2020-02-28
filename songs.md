@@ -39,7 +39,7 @@ title: Songs
 
 ## Если скорбь и печаль у тебя на душе \(«Песнь Возрождения» № 1137\)
 
-<audio src="{{ "esli_skorb_i_pechal_u_tebya_na_dushe.mp3" | relative_url }}" controls loop> Unable to load song. </audio>
+<audio src="{{ "/assets/audio/esli_skorb_i_pechal_u_tebya_na_dushe.mp3" | relative_url }}" controls loop> Unable to load song. </audio>
 
 **1-й куплет:**  
 Если скорбь и печаль у тебя на душе.  
