@@ -1,26 +1,9 @@
 ---
-layout: audiopage
+layout: page
 title: Songs
-files:
+file:
   - /assets/audio/На_перекрёстках_жизни_много_трудностей.mp3
 ---
 
-{% for file in page.files %}
-
-{{ file | relative_url }}?autoplay=1&loop=1&controls=0
-
-{% endfor %}
-
-[audio1][0]
-
-[audio1][0]
-
-[audio2][2]
-
-
-{% for file in page.files %}
-[{% increment i %}]: {{ file | relative_url }}?autoplay=1&loop=1&controls=0
-{% endfor %}
-
-[2]:{{ page.files[0] | relative_url }}?autoplay=1&loop=1&controls=0
+<audio src="{{ page.file[0] | relative_url }}" controls loop> Unable to load song. </audio>
 
