@@ -5,8 +5,8 @@ files:
   - /assets/audio/На_перекрёстках_жизни_много_трудностей.mp3
 ---
 
-- [song1][1]
-- [song1][1]
+- [audio1][1]
+- [audio1][1]
 
 {% assign i = 0 %}
 {% for file in files %}
