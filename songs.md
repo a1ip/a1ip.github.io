@@ -5,9 +5,11 @@ files:
   - /assets/audio/На_перекрёстках_жизни_много_трудностей.mp3
 ---
 
-- [audio1][0]
-- [audio1][0]
-- [audio2][2]
+[audio1][0]
+
+[audio1][0]
+
+[audio2][2]
 
 
 {% for file in page.files %}
