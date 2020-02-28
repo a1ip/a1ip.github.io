@@ -5,6 +5,12 @@ files:
   - /assets/audio/На_перекрёстках_жизни_много_трудностей.mp3
 ---
 
+{% for file in page.files %}
+
+{{ file | relative_url }}?autoplay=1&loop=1&controls=0
+
+{% endfor %}
+
 [audio1][0]
 
 [audio1][0]
@@ -13,7 +19,7 @@ files:
 
 
 {% for file in page.files %}
-[{% increment i %}]: {{ files | relative_url }}?autoplay=1&loop=1&controls=0
+[{% increment i %}]: {{ file | relative_url }}?autoplay=1&loop=1&controls=0
 {% endfor %}
 
 [2]:{{ page.files[0] | relative_url }}?autoplay=1&loop=1&controls=0
