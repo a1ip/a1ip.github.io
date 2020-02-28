@@ -5,7 +5,7 @@ title: Songs
 
 ## На перекрёстках жизни много трудностей
 
-<audio src="{{ /assets/audio/na_perekrestkah_zhini.mp3 | relative_url }}" controls loop> Unable to load song. </audio>
+<audio src="{{ "/assets/audio/na_perekrestkah_zhini.mp3" | relative_url }}" controls loop> Unable to load song. </audio>
 
 **1-й куплет:**  
 На перекрёстках жизни много трудностей,  
