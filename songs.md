@@ -10,10 +10,10 @@ files:
 - [audio2][2]
 
 {% assign i = 0 %}
-{% for file in files %}
+{% for file in page.files %}
 {% increment i %}
 [{{ i }}]: {{ files | relative_url }}?autoplay=1&loop=1&controls=0
 {% endfor %}
 
-[2]:{{ files[0] | relative_url }}?autoplay=1&loop=1&controls=0
+[2]:{{ page.files[0] | relative_url }}?autoplay=1&loop=1&controls=0
 
