@@ -4,6 +4,7 @@ description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"http
 permalink: /:title/
 lang: "en"
 date_format: "%B %d, %Y"
+remote_theme: niklasbuschmann/contrast@v2.7
 # baseurl: "/contrast/" # does not include hostname
 
 links:
@@ -42,6 +43,7 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jekyll-remote-theme
 
 defaults:
   -
