@@ -64,3 +64,7 @@ title: Песни
 Скоро светом восток озарится.  
 И рассеется мрак, что покрыл лик земной.  
 И на землю Господь возвратится.
+
+## Первомученик Стефан — Иеродиакон Рафаил
+
+<audio src="{{ "/assets/audio/pervomuchenik_stefan.mp3" | relative_url }}" controls loop> Unable to load song. </audio>
