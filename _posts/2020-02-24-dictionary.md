@@ -72,6 +72,8 @@ layout: post
 
 [**Пе́рси**](https://ru.wiktionary.org/wiki/перси)&nbsp;(Откр.&nbsp;1:13) — грудь.
 
+[**Поели́ку**](https://ru.wiktionary.org/wiki/поелику)&nbsp;(Деян.&nbsp;15:24) — поскольку, так как, потому что.
+
 [**Позвоно́к**](https://ru.wiktionary.org/wiki/позвонок)&nbsp;(Исх.&nbsp;28:34) — бубенчик.
 
 [**Покая́ние**](https://azbyka.ru/pokayanie)&nbsp;(Мф.&nbsp;3:11) — изменение образа мышления.
