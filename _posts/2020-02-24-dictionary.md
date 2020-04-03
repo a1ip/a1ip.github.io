@@ -82,7 +82,7 @@ layout: post
 
 [**Почи́ть**](https://ru.wiktionary.org/wiki/почить)&nbsp;(Исх.&nbsp;20:11) — успокоиться, предаться полному покою, бездействию, погрузиться в покой.
 
-[**Пра́вда**](http://slovari.299.ru/word.php?id=25699&sl=oj)&nbsp;(Пс.&nbsp;4:2) — праведность.
+[**Пра́вда**](https://dic.academic.ru/dic.nsf/enc2p/331826/ПРАВДА)&nbsp;(Пс.&nbsp;4:2) — праведность.
 
 [**Преще́ние**](https://ru.wiktionary.org/wiki/прещение)&nbsp;(Пс.&nbsp;75:7) — гнев, угроза, укор, наказание.
 
