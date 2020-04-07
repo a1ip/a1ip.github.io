@@ -76,6 +76,8 @@ layout: post
 
 [**Напе́рсник**](https://ru.wiktionary.org/wiki/перси)&nbsp;(Исх.&nbsp;28:15) — нагрудник.
 
+[**Не́мощь**](https://ru.wiktionary.org/wiki/немощь)&nbsp;(Ис.&nbsp;53:4) — крайняя слабость, истощение.
+
 [**Одесну́ю**](https://ru.wiktionary.org/wiki/одесную)&nbsp;(Пс.&nbsp;90:7) — справа.
 
 [**Пе́рси**](https://ru.wiktionary.org/wiki/перси)&nbsp;(Откр.&nbsp;1:13) — грудь.
