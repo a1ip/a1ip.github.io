@@ -64,6 +64,8 @@ layout: post
 
 [**Исполи́н**](https://ru.wiktionary.org/wiki/исполин)&nbsp;(Пс.&nbsp;18:6) — великан, богатырь.
 
+[**Истязу́ем**](https://ru.wiktionary.org/wiki/истязать)&nbsp;(Ис.&nbsp;53:7) — подвержен жестоким пыткам, мучениям; доведён до изнеможения.
+
 [**Крести́ть**](https://ru.wikipedia.org/wiki/Крещение)&nbsp;(Мф.&nbsp;3:6) — окунать, погружать в воду.
 
 [**Лани́та**](https://ru.wiktionary.org/wiki/ланита)&nbsp;(Пс.&nbsp;3:8) — щека́.
