@@ -36,6 +36,7 @@ external:                    # see http://fontawesome.com/icons
   - {title: Twitter, icon: twitter, url: "https://twitter.com/phil_rigovanov"}
   - {title: Tumblr, icon: tumblr, url: "https:rigovanov.tumblr.com"}
   - {title: "Bible.com", icon: bible, url: "https://my.bible.com/users/a1ip"}
+  - {title: Telegram, icon: telegram, url: "http://tlinks.run/rigovanov"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
@@ -91,6 +92,7 @@ socials:                    # see http://fontawesome.com/icons
   - {title: Facebook, icon: facebook, url: "https://facebook.com/rigovanov"}
   - {title: VK, icon: vk, url: "https://vk.com/rigovanov"}
   - {title: Tumblr, icon: tumblr, url: "https:rigovanov.tumblr.com"}
+  - {title: Telegram, icon: telegram, url: "http://tlinks.run/rigovanov"}
   - {title: "G+", icon: google-plus-g, url: "https://plus.google.com/u/0/+PhilippeRigovanov"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/rigovanov/"}
   - {title: Dribbble, icon: dribbble, url: "https://dribbble.com/a1ip"}
