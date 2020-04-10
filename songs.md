@@ -5,7 +5,7 @@ title: Песни
 
 ## На перекрёстках жизни много трудностей
 
-<audio src="{{ "/assets/audio/na_perekrestkah_zhini.mp3" | relative_url }}" controls loop> Unable to load song. </audio>
+<audio src="{{ "/assets/audio/na_perekrestkah_zhini.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
 
 **1-й куплет:**  
 На перекрёстках жизни много трудностей,  
@@ -39,9 +39,51 @@ title: Песни
 
 ---
 
-## Если нет драгоценного дара любви \(«Песнь Возрождения» №&nbsp;1136\)
+## Не оставлю Я вас, не забуду! \(«Песнь&nbsp;Возрождения»&nbsp;№&nbsp;560\)
 
-<audio src="{{ "/assets/audio/esli_net_dragotsennogo_dara_liubvi.mp3" | relative_url }}" controls loop> Unable to load song. </audio>
+<audio src="{{ "/assets/audio/ne_ostavlyu.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
+
+**1-й куплет:**  
+«Не оставлю Я вас, не забуду! —  
+Говорит Он и мне, и тебе. —  
+**//Сохраню и в пустыне безлюдной,  
+И в тяжелой житейской борьбе.//**
+
+**2-й куплет:**  
+Помогу одолеть все преграды,  
+Силой свыше в пути наделю  
+**//И в минуты тяжелой утраты  
+Утешенье и крепость пошлю.//**
+
+**3-й куплет:**  
+Не оставлю Я вас, не забуду.  
+Если мать, и отец, и друзья  
+**//Отрекутся от вас и осудят —  
+Верным Другом для вас буду Я.//**
+
+**4-й куплет:**  
+Исцелю воспаленные раны,  
+Уврачую сердечный недуг,  
+**//Перестрою разбитые планы,  
+Ободрю обессилевший дух.//**
+
+**5-й куплет:**  
+Воспитаю с заботою нежной,  
+Приучу ваши руки к труду,  
+**//Сохраню в этой жизни мятежной  
+И в Небесное Царство введу.//**
+
+**6-й куплет:**  
+Не оставлю Я вас, не забуду...  
+Если мир вас отвергнет, то Я.  
+**//Вам Отцом и Хранителем буду,  
+Не покинет вас милость Моя!»//**
+
+---
+
+## Если нет драгоценного дара любви \(«Песнь&nbsp;Возрождения»&nbsp;№&nbsp;1136\)
+
+<audio src="{{ "/assets/audio/esli_net_dragotsennogo_dara_liubvi.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
 
 **1-й куплет:**  
 Если нет драгоценного дара любви,  
@@ -69,9 +111,9 @@ title: Песни
 
 ---
 
-## Если скорбь и печаль у тебя на душе \(«Песнь Возрождения» №&nbsp;1137\)
+## Если скорбь и печаль у тебя на душе \(«Песнь&nbsp;Возрождения»&nbsp;№&nbsp;1137\)
 
-<audio src="{{ "/assets/audio/esli_skorb_i_pechal_u_tebya_na_dushe.mp3" | relative_url }}" controls loop> Unable to load song. </audio>
+<audio src="{{ "/assets/audio/esli_skorb_i_pechal_u_tebya_na_dushe.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
 
 **1-й куплет:**  
 Если скорбь и печаль у тебя на душе.  
@@ -101,4 +143,4 @@ title: Песни
 
 ## Первомученик Стефан — Иеродиакон Рафаил
 
-<audio src="{{ "/assets/audio/pervomuchenik_stefan.mp3" | relative_url }}" controls loop> Unable to load song. </audio>
+<audio src="{{ "/assets/audio/pervomuchenik_stefan.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
