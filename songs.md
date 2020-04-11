@@ -156,7 +156,7 @@ title: Песни
 
 <h2 id="s628">Вы вставайте, новые силы («Песенник&nbsp;Сионский»&nbsp;№&nbsp;628)</h2>
 
-<audio src="{{ "/assets/audio/vy_vstatayte.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
+<audio src="{{ "/assets/audio/vy_vstavayte.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
 
 **1-й куплет:**  
 Вы вставайте, новые силы,  
