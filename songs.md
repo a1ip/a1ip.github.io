@@ -9,9 +9,9 @@ title: Песни
 - [На перекрёстках жизни много трудностей](#perekr)
 - [Первомученик Стефан — Иеродиакон Рафаил](#stefan)
 
-## Не оставлю Я вас, не забуду! \(«Песнь&nbsp;Возрождения»&nbsp;№&nbsp;560\)
+<h2 id="560">Не оставлю Я вас, не забуду! («Песнь&nbsp;Возрождения»&nbsp;№&nbsp;560)</h2>
 
-<audio id="560" src="{{ "/assets/audio/ne_ostavlyu.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
+<audio src="{{ "/assets/audio/ne_ostavlyu.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
 
 **1-й куплет:**  
 «Не оставлю Я вас, не забуду! —  
@@ -51,9 +51,9 @@ title: Песни
 
 ---
 
-## Если нет драгоценного дара любви \(«Песнь&nbsp;Возрождения»&nbsp;№&nbsp;1136\)
+<h2 id="1136">Если нет драгоценного дара любви («Песнь&nbsp;Возрождения»&nbsp;№&nbsp;1136)</h2>
 
-<audio id="1136" src="{{ "/assets/audio/esli_net_dragotsennogo_dara_liubvi.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
+<audio src="{{ "/assets/audio/esli_net_dragotsennogo_dara_liubvi.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
 
 **1-й куплет:**  
 Если нет драгоценного дара любви,  
@@ -81,9 +81,9 @@ title: Песни
 
 ---
 
-## Если скорбь и печаль у тебя на душе \(«Песнь&nbsp;Возрождения»&nbsp;№&nbsp;1137\)
+<h2 id="1137">Если скорбь и печаль у тебя на душе («Песнь&nbsp;Возрождения»&nbsp;№&nbsp;1137)</h2>
 
-<audio id="1137" src="{{ "/assets/audio/esli_skorb_i_pechal_u_tebya_na_dushe.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
+<audio src="{{ "/assets/audio/esli_skorb_i_pechal_u_tebya_na_dushe.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
 
 **1-й куплет:**  
 Если скорбь и печаль у тебя на душе.  
@@ -111,9 +111,9 @@ title: Песни
 
 ---
 
-## На перекрёстках жизни много трудностей
+<h2 id="perekr">На перекрёстках жизни много трудностей</h2>
 
-<audio id="perekr" src="{{ "/assets/audio/na_perekrestkah_zhini.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
+<audio src="{{ "/assets/audio/na_perekrestkah_zhini.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
 
 **1-й куплет:**  
 На перекрёстках жизни много трудностей,  
@@ -147,8 +147,8 @@ title: Песни
 
 ---
 
-## Первомученик Стефан — Иеродиакон Рафаил
+<h2 id="stefan">Первомученик Стефан — Иеродиакон Рафаил</h2>
 
-<audio id="stefan" src="{{ "/assets/audio/pervomuchenik_stefan.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
+<audio src="{{ "/assets/audio/pervomuchenik_stefan.mp3" | relative_url }}" controls loop> Не удалось загрузить песню. </audio>
 
 ---
