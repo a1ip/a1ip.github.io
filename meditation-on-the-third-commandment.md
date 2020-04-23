@@ -9,8 +9,6 @@ author: Клайв Стейплз Льюис
 layout: page
 ---
 
-# Размышления о третьей заповеди
-
 Meditation on the Third Commandment
 
 Статья опубликована: «Guardian», 1941, 10 января.
