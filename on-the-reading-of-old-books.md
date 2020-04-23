@@ -9,8 +9,6 @@ author: Клайв Стейплз Льюис
 layout: page
 ---
 
-# О старинных книгах
-
 On the Reading of Old Books
 
 Перевод Н. Трауберг
