@@ -26,6 +26,8 @@ layout: post
 
 [**Ве́но**](https://ru.wiktionary.org/wiki/вено)&nbsp;(Быт.&nbsp;34:12) – выкуп за невесту.
 
+[**Верже́ние**](https://archaisms.academic.ru/431/вержение)&nbsp;(Лк.&nbsp;22:41) – бросок; бросание, кидание, метание.
+
 [**Вту́не**](https://ru.wiktionary.org/wiki/втуне)&nbsp;(Пс.&nbsp;24:3) – без пользы, напрасно.
 
 [**Вы́я**](https://ru.wiktionary.org/wiki/выя)&nbsp;(Деян.&nbsp;15:10) — ше́я.
@@ -53,6 +55,8 @@ layout: post
 [**Жестоковы́йный**](https://ru.wiktionary.org/wiki/жестоковыйный)&nbsp;(Исх.&nbsp;33:5) — «имеющий твердую шею, упрямый, непокорный» (калька&nbsp;с&nbsp;греч.&nbsp;σκληροτράχηλος).
 
 [**Жи́тница**](https://ru.wiktionary.org/wiki/житница)&nbsp;(Мф.&nbsp;3:12) — амбар.
+
+[**Завещава́ть**](https://gufo.me/dict/bible_vihlyancev/завещавать)&nbsp;(Лк.&nbsp;22:29) — заповедовать, внушать, повелевать, передавать.
 
 [**Зени́ца**](https://ru.wiktionary.org/wiki/зеница)&nbsp;(Пс.&nbsp;16:8) — зрачок.
 
@@ -96,6 +100,8 @@ layout: post
 
 [**Пра́вда**](https://dic.academic.ru/dic.nsf/enc2p/331826/ПРАВДА)&nbsp;(Пс.&nbsp;4:2) — праведность.
 
+[**Престо́л**](https://ru.wiktionary.org/wiki/престол)&nbsp;(Лк.&nbsp;22:30) — трон монарха.
+
 [**Преще́ние**](https://ru.wiktionary.org/wiki/прещение)&nbsp;(Пс.&nbsp;75:7) — гнев, угроза, укор, наказание.
 
 [**Присносу́щный**](https://slovar.cc/rel/cerkov/2321096.html)&nbsp;(Дан.&nbsp;4:31) — всегда существующий, вечный.
@@ -124,7 +130,11 @@ layout: post
 
 [**Стезя́**](https://ru.wiktionary.org/wiki/стезя)&nbsp;(Мф.&nbsp;3:3) — путь, дорога.
 
+[**Сума́**](https://ru.wiktionary.org/wiki/сума)&nbsp;(Лк.&nbsp;22:35) — дорожная сумка, на ремне, через плечо.
+
 [**Твердь**](https://ru.wiktionary.org/wiki/твердь)&nbsp;(Быт.&nbsp;1:6) — в синодальном переводе так называется воздушная оболочка (атмосфера) нашей планеты.
+
+[**Тра́пеза**](https://ru.wiktionary.org/wiki/трапеза)&nbsp;(Лк.&nbsp;22:30) — приём пищи.
 
 [**Тук**](https://ru.wiktionary.org/wiki/тук)&nbsp;(Пс.&nbsp;16:10) — животный жир.
 
