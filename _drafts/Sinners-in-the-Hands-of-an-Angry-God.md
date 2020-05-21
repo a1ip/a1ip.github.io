@@ -6,7 +6,7 @@ sharing: true
 footer: false
 keywords: Джонатан Эдвардс, грешники, Бог, гнев, суд, спасение
 author: Джонатан Эдвардс
-layout: page
+layout: post
 ---
 
 __Июль 1741 г.__
