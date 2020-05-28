@@ -36,7 +36,7 @@ external:                    # see http://fontawesome.com/icons
   - {title: Twitter, icon: twitter, url: "https://twitter.com/phil_rigovanov"}
   - {title: Tumblr, icon: tumblr, url: "https:rigovanov.tumblr.com"}
   - {title: "Bible.com", icon: bible, url: "https://my.bible.com/users/a1ip"}
-  - {title: Telegram, icon: telegram, url: "http://tlinks.run/rigovanov"}
+  - {title: Telegram, icon: telegram, url: "https://tlinks.run/rigovanov"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
