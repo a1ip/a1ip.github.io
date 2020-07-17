@@ -9,7 +9,7 @@ remote_theme: niklasbuschmann/contrast@v2.8
 # baseurl: "/contrast/" # does not include hostname
 
 links:
-  church: "http://novchurch.ru/"
+  church: "https://novchurch.ru"
 
 # Layout
 
