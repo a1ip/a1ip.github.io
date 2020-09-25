@@ -6,6 +6,7 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 remote_theme: niklasbuschmann/contrast@v2.8
+url: "https://rigovanov.ru"
 # baseurl: "/contrast/" # does not include hostname
 
 links:
