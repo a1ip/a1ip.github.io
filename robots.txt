@@ -2,4 +2,4 @@ User-agent: *
 Disallow:
 Host: rigovanov.ru
 
-Sitemap: http://rigovanov.ru/sitemap.xml
+Sitemap: https://rigovanov.ru/sitemap.xml
