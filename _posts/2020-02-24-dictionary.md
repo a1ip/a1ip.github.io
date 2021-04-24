@@ -24,6 +24,8 @@ layout: post
 
 [**Ве́жда**](https://ru.wiktionary.org/wiki/вежда)&nbsp;(Пс.&nbsp;10:4) — ве́ко.
 
+[**Велегла́сно**](https://ru.wiktionary.org/wiki/велегласно)&nbsp;(Лк.&nbsp;19:37) — громким голосом, зву́чно.
+
 [**Ве́но**](https://ru.wiktionary.org/wiki/вено)&nbsp;(Быт.&nbsp;34:12) – выкуп за невесту.
 
 [**Верже́ние**](https://archaisms.academic.ru/431/вержение)&nbsp;(Лк.&nbsp;22:41) – бросок; бросание, кидание, метание.
