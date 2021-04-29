@@ -90,6 +90,8 @@ layout: post
 
 [**Одесну́ю**](https://ru.wiktionary.org/wiki/одесную)&nbsp;(Пс.&nbsp;90:7) — справа.
 
+[**Опре́снок**](https://ru.wiktionary.org/wiki/опреснок)&nbsp;(Лк.&nbsp;22:1) — тонкая сухая лепёшка из пресного теста.
+
 [**Пе́рси**](https://ru.wiktionary.org/wiki/перси)&nbsp;(Откр.&nbsp;1:13) — грудь.
 
 [**Поели́ку**](https://ru.wiktionary.org/wiki/поелику)&nbsp;(Деян.&nbsp;15:24) — поскольку, так как, потому что.
