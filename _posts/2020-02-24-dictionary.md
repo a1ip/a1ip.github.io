@@ -26,11 +26,11 @@ layout: post
 
 [**Велегла́сно**](https://ru.wiktionary.org/wiki/велегласно)&nbsp;(Лк.&nbsp;19:37) — громким голосом, зву́чно.
 
-[**Ве́но**](https://ru.wiktionary.org/wiki/вено)&nbsp;(Быт.&nbsp;34:12) – выкуп за невесту.
+[**Ве́но**](https://ru.wiktionary.org/wiki/вено)&nbsp;(Быт.&nbsp;34:12) — выкуп за невесту.
 
-[**Верже́ние**](https://archaisms.academic.ru/431/вержение)&nbsp;(Лк.&nbsp;22:41) – бросок; бросание, кидание, метание.
+[**Верже́ние**](https://archaisms.academic.ru/431/вержение)&nbsp;(Лк.&nbsp;22:41) — бросок; бросание, кидание, метание.
 
-[**Вту́не**](https://ru.wiktionary.org/wiki/втуне)&nbsp;(Пс.&nbsp;24:3) – без пользы, напрасно.
+[**Вту́не**](https://ru.wiktionary.org/wiki/втуне)&nbsp;(Пс.&nbsp;24:3) — без пользы, напрасно.
 
 [**Вы́я**](https://ru.wiktionary.org/wiki/выя)&nbsp;(Деян.&nbsp;15:10) — ше́я.
 
@@ -50,7 +50,7 @@ layout: post
 
 [**Ева́нгелие**](https://ru.wiktionary.org/wiki/Евангелие)&nbsp;(Мк.&nbsp;1:14) — добрая весть.
 
-[**Ей**](https://vasmer.lexicography.online/е/ей)&nbsp;(Фил.&nbsp;4:3) – действительно, в самом деле.
+[**Ей**](https://vasmer.lexicography.online/е/ей)&nbsp;(Фил.&nbsp;4:3) — действительно, в самом деле.
 
 [**Епанча́**](https://ru.wiktionary.org/wiki/епанча)&nbsp;(Ис.&nbsp;3:22) — суконный широкий длинный плащ.
 
