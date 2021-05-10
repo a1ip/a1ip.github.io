@@ -102,6 +102,8 @@ layout: post
 
 [**Позвоно́к**](https://ru.wiktionary.org/wiki/позвонок)&nbsp;(Исх.&nbsp;28:34) — бубенчик.
 
+[**Позна́ть**](https://ru.wiktionary.org/wiki/познать)&nbsp;(Быт.&nbsp;4:1) — в Библии используется как эвфемизм, означающий стать в близкие отношения или вступить в половую связь с кем-нибудь.
+
 [**Покая́ние**](https://azbyka.ru/pokayanie)&nbsp;(Мф.&nbsp;3:11) — изменение образа мышления.
 
 [**Полу́денный**](https://www.efremova.info/word/poludennyj.html)&nbsp;(Исх.&nbsp;26:18) — южный.
