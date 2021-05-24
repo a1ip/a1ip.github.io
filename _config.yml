@@ -92,7 +92,7 @@ socials:                    # see http://fontawesome.com/icons
   - {title: Twitter, icon: twitter, url: "https://twitter.com/phil_rigovanov"}
   - {title: Facebook, icon: facebook, url: "https://facebook.com/rigovanov"}
   - {title: VK, icon: vk, url: "https://vk.com/rigovanov"}
-  - {title: Tumblr, icon: tumblr, url: "https:rigovanov.tumblr.com"}
+  - {title: Tumblr, icon: tumblr, url: "https://rigovanov.tumblr.com"}
   - {title: Telegram, icon: telegram, url: "http://tlinks.run/rigovanov"}
   - {title: "G+", icon: google-plus-g, url: "https://plus.google.com/u/0/+PhilippeRigovanov"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/rigovanov/"}
