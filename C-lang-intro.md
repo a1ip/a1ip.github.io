@@ -1,4 +1,5 @@
 ---
+lang: ru
 title: Введение в язык Си
 description: книга «Введение в язык Си»
 comments: false
