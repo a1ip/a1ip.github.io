@@ -1,4 +1,5 @@
 ---
+lang: ru
 title: "Золотые стихи Библии по темам."
 description: "Золотые стихи Библии по темам."
 comments: false
