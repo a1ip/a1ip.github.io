@@ -45,7 +45,10 @@ layout: compress
 </header>
 
 {{ content }}
+  
+{% if page.bibleref or site.bibleref %}
 {% include bibleref.html %}
+{% endif %}
 {% include ga.html %}
 </body>
 </html>
