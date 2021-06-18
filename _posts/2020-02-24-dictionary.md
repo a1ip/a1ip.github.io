@@ -101,6 +101,8 @@ layout: post
 
 [**Опре́снок**](https://ru.wiktionary.org/wiki/опреснок)&nbsp;(Лк.&nbsp;22:1) — тонкая сухая лепёшка из пресного теста.
 
+[**Ора́ть**](https://ru.wiktionary.org/wiki/орать)&nbsp;(3Цар.&nbsp;19:19) — паха́ть.
+
 [**Пе́рси**](https://ru.wiktionary.org/wiki/перси)&nbsp;(Откр.&nbsp;1:13) — грудь.
 
 [**Поели́ку**](https://ru.wiktionary.org/wiki/поелику)&nbsp;(Деян.&nbsp;15:24) — поскольку, так как, потому что.
