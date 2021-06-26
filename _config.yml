@@ -42,8 +42,8 @@ external:                    # see http://fontawesome.com/icons
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
-  disqus: "a1ip"                # see https://disqus.com/
-#  isso: ""                  # see https://posativ.org/isso/
+  disqus_shortname: "a1ip"                # see https://disqus.com/
+#  isso_domain: ""                  # see https://posativ.org/isso/
 
 plugins:
  - jekyll-feed
