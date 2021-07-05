@@ -3,7 +3,7 @@
 
 @import index, font, basic, layout
 
-body > header, body > article, body > footer
+body > header, body > article, body > footer{% if site.comments.isso_domain %} , body > #isso-thread{% endif %}{% if site.comments.disqus_shortname %} , body > #disqus_thread{% endif %}
   padding: 1.5em
 
 @media (min-width: 32em)
