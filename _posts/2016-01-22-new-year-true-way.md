@@ -34,7 +34,7 @@ author: Phil Rigovanov
 3. Комментарии на НЗ Уильяма Баркли
 4. Библейские энциклопедии и справочники
 5. [Bible Quote](http://bqt.ru/)
-6. 5. [MyBible](https://mybible.zone)
+6. [MyBible](https://mybible.zone)
 
 ### Список рекомендуемых христианских книг
 
