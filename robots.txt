@@ -3,3 +3,4 @@ Disallow:
 Host: rigovanov.ru
 
 Sitemap: https://rigovanov.ru/sitemap.xml
+Sitemap: https://rigovanov.ru/cv/sitemap.xml
