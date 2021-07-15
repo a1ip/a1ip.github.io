@@ -49,14 +49,23 @@ layout: page
 <dd>Статья о христианах и политике опубликована: «Guardian», 1941, 10 января.</dd>
 </dl>
 
+## Кальвинизм
+
+<dl>
+<dt><a href="{{ site.baseurl }}/russian-baptism-arminianism-calvinism/">Статья Константина Прохорова «Почему отечественные баптисты – не арминиане и не кальвинисты»</a></dt>
+<dd>Нашёл в ней отражение своих ощущений и несформулированных мыслей моего личного кредоя, а тут оказывается и во всём братстве похожая картина...</dd>
+<dt><a href="http://www.rusbaptist.stunda.org/dop/tajnapredopred.pdf" target="_blank">Книга Константина Прохорова «Тайна предопределения»</a></dt>
+<dd>Глубокое исследование вопроса в разрезе истории. Настоятельно рекомендую к прочтению.</dd>
+</dl>
+
 ## Textus Receptus
 
 <dl>
 <dt><a href="{{ site.baseurl }}/Westcott-and-Hort/">«О тексте Westcott and Hort (Уэсткотта и Хорта)»</a>.</dt>
 <dd>Цитаты из личной переписки Уэсткотта и Хорта.</dd>
-<dt><a href="http://zdrawoe-uchenie-hristowo.net/ru/"  target="_blank">Сайт Андрея и Виктора Шмидтгаль.</a></dt>
+<dt><a href="http://zdrawoe-uchenie-hristowo.net/ru/" target="_blank">Сайт Андрея и Виктора Шмидтгаль.</a></dt>
 <dd>Содержит хорошие матералы по борьбе с лжеучениями, в том числе против кальвинизма, а так же защищающие Textus Receptus.</dd>
-<dt><a href="http://everbible.com/"  target="_blank">Во свете Библии</a></dt>
+<dt><a href="http://everbible.com/" target="_blank">Во свете Библии</a></dt>
 <dd>Сайт посвящен решению многих научных и богословских вопросов во свете Библии, большое количество материалов в защиту Textus Receptus.</dd>
 </dl>
 
