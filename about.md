@@ -10,7 +10,7 @@ footer: true
 layout: page
 ---
 
-My name is Philippe&nbsp;Rigovanov. I am a radical&nbsp;christian, baptist (Textus&nbsp;Receptus&nbsp;Onlyist, not&nbsp;calvinist, not&nbsp;dispensationalist), math and informatics teacher interested in statistics, Data&nbsp;Analysis, Data&nbsp;Visualisation, Machine&nbsp;Learning, Natural&nbsp;Language&nbsp;Processing and Web&nbsp;Technologies.
+My name is <a href="{{ site.links.vcard }}" title="My Visit Card">Philippe&nbsp;Rigovanov</a>. I am a radical&nbsp;christian, baptist (Textus&nbsp;Receptus&nbsp;Onlyist, not&nbsp;calvinist, not&nbsp;dispensationalist), math and informatics teacher interested in statistics, Data&nbsp;Analysis, Data&nbsp;Visualisation, Machine&nbsp;Learning, Natural&nbsp;Language&nbsp;Processing and Web&nbsp;Technologies.
 
 You can find me here: <a href="{{ site.links.church }}" title="My Local Church">⛪</a>.
 
