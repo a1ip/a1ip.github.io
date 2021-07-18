@@ -46,7 +46,7 @@ layout: post
 
 [**Гумно́**](https://ru.wiktionary.org/wiki/гумно)&nbsp;(Мф.&nbsp;3:12) — площадка для молотьбы.
 
-[**Дави́р**](https://ru.wikipedia.org/wiki/Святая_святых)&nbsp;(2Пар.&nbsp;4:20) — `דְּבִיר`, Святая святых.
+[**Дави́р**](https://ru.wikipedia.org/wiki/Святая_святых)&nbsp;(2Пар.&nbsp;4:20) — `דְּבִיר`, Святое святых.
 
 [**Десни́ца**](https://ru.wiktionary.org/wiki/десница)&nbsp;(Пс.&nbsp;17:36) — правая рука.
 
