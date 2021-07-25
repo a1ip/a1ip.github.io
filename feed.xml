@@ -11,7 +11,7 @@ sitemap:
     <title>{{ site.title[page.lang] | xml_escape }}</title>
     <description>{{ site.title[page.lang] | xml_escape }}&apos; blog</description>
     <link>{{ "/" | absolute_url  }}</link>
-    <atom:link href="{{ "/rss.xml" | relative_url }}" rel="self" type="application/rss+xml"/>
+    <atom:link href="{{ "/rss.xml" | absolute_url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
