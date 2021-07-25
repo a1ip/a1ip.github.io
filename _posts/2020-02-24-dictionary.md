@@ -116,6 +116,8 @@ layout: post
 
 [**Пе́рси**](https://ru.wiktionary.org/wiki/перси)&nbsp;(Откр.&nbsp;1:13) — грудь.
 
+[**Пло́тский**](https://ru.wiktionary.org/wiki/плотский)&nbsp;(2Пар.&nbsp;32:8) — относящийся к плоти или телу.
+
 [**Поели́ку**](https://ru.wiktionary.org/wiki/поелику)&nbsp;(Деян.&nbsp;15:24) — поскольку, так как, потому что.
 
 [**Позвоно́к**](https://ru.wiktionary.org/wiki/позвонок)&nbsp;(Исх.&nbsp;28:34) — бубенчик.
