@@ -54,8 +54,8 @@ comments:
 #  isso_domain: ""                  # see https://posativ.org/isso/
 
 plugins:
- - jekyll-feed
- - jekyll-remote-theme
+  - jekyll-remote-theme
+#  - jekyll-feed
 
 defaults:
   -
