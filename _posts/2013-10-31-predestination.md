@@ -2,7 +2,8 @@
 lang: ru
 title: Предопределение
 author: Павел Григорьевич Сенников
-tags: ☦
+tags: ☦ богословие кальвинизм
+categories: ru
 ---
 
 
