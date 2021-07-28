@@ -7,6 +7,7 @@ date: 2015-06-11
 lastmod: 2015-06-11
 author: Phil Rigovanov
 tags: solutions Mac
+categories: en
 ---
 
 [Lazaruz](http://www.lazarus-ide.org/) is open sourced cross-platform IDE for [Pascal programming language](https://en.wikipedia.org/wiki/Pascal_%28programming_language%29).
