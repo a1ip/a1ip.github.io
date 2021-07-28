@@ -8,7 +8,7 @@ keywords: CodeCombat, solutions, CoffeeScript, JavaScript, Campaign, Levels, Alg
 comments: true
 categories: [programming, code, solutions, Literate CoffeeScript, CoffeeScript, JavaScript, learning, English]
 changefreq: monthly
-tags: code solutions JS
+tags: code solutions JS edu
 categories: en
 ---
 
