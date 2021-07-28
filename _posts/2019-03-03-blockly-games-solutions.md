@@ -1,6 +1,8 @@
 ---
 lang: ru
-title: Решения для обучающей игры Blockly 
+title: Решения для обучающей игры Blockly
+tags: code solutions blockly edu
+categories: ru
 ---
 
 - Решения для [игры «Лабиринт»](#maze)
