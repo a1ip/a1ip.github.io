@@ -6,6 +6,7 @@ description: How to install Lazarus IDE on Mac OS X from dmg files
 date: 2015-06-11
 lastmod: 2015-06-11
 author: Phil Rigovanov
+tags: solutions Mac
 ---
 
 [Lazaruz](http://www.lazarus-ide.org/) is open sourced cross-platform IDE for [Pascal programming language](https://en.wikipedia.org/wiki/Pascal_%28programming_language%29).
