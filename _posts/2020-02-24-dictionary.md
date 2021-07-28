@@ -8,6 +8,8 @@ bibleref: true
 footer: false
 keywords: Библия, словарь, слова
 layout: post
+tags: ☦ Библия
+categories: ru
 ---
 
 [**А́гнец**](https://ru.wiktionary.org/wiki/агнец)&nbsp;(Ис.&nbsp;53:7) — ягнёнок, барашек.
