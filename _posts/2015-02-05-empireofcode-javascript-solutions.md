@@ -8,7 +8,8 @@ keywords: CodeCombat, solutions, Empire of Code, JavaScript, Algorithms, program
 comments: true
 categories: [programming, code, solutions, JavaScript, learning, games, English]
 changefreq: monthly
-tags: code solutions JS
+tags: code solutions JS edu
+categories: en
 ---
 
 Here is a gist with my [Empire of Code](https://empireofcode.com) solutions in JavaScript programming language:
