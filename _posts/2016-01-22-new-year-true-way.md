@@ -7,6 +7,7 @@ keywords: Новый Год, план
 description: Как правильно начать новый год, конспект
 author: Phil Rigovanov
 tags: ☦
+categories: ru
 ---
 [Артур](https://www.instagram.com/arthurovod/) на  [молодёжном собрании](https://vk.com/houseofgrace) выдал много полезных советов как правильно начать новый год с кучей конкретных ресурсов, он даже выложил [слайды презентации](https://vk.com/houseofgrace?w=wall-77739678_11), я решил что материал достоин того чтобы оставить себе его краткий конспект.
 
