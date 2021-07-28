@@ -8,6 +8,7 @@ keywords: CodeCombat, solutions, Empire of Code, Python, Algorithms, programming
 comments: true
 categories: [programming, code, solutions, Python, learning, games, English]
 changefreq: monthly
+tags: code solutions Python
 ---
 
 Here is a gist with my [Empire of Code](https://empireofcode.com) solutions in Python programming language:
