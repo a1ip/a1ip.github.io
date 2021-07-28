@@ -1,6 +1,8 @@
 ---
 lang: ru
 title: Изоляция
+tags: ☦
+categories: ru
 ---
 
 ![Рембрандт Харменс ван Рейн. «Апостол Павел в темнице». 1629 г.]({{ "/assets/img/blog/Paul_in_jail.jpg" | relative_url }})
