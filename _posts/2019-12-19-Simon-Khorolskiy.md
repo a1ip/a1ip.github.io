@@ -2,6 +2,8 @@
 title: Simon Khorolskiy
 author: Simon Khorolskiy
 lang: ru
+tags: ☦ песни
+categories: ru
 ---
 ## Живущий под кровом Всевышнего (Псалом&nbsp;90)
 
