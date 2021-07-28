@@ -1,6 +1,8 @@
 ---
 lang: ru
 title: Послушание
+tags: ☦ Библия
+categories: ru
 ---
 {% include embed.html url="https://www.youtube.com/embed/rlZdxt7m_bg" %}
 
