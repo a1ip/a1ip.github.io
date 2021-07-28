@@ -16,6 +16,7 @@ remote_theme: niklasbuschmann/contrast@v2.8
 url: "https://rigovanov.ru"
 bibleref: false
 # baseurl: "/contrast/" # does not include hostname
+showcategories: false
 
 links:
   church: "https://novchurch.ru"
