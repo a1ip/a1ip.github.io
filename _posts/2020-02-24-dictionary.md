@@ -94,6 +94,8 @@ categories: ru
 
 [**Крести́ть**](https://ru.wikipedia.org/wiki/Крещение)&nbsp;(Мф.&nbsp;3:6) — окунать, погружать в воду.
 
+[**Куко́ль**](https://ru.wiktionary.org/wiki/куколь)&nbsp;(Иов.&nbsp;31:40) — травянистое сорное растение семейства гвоздичных, с розовыми цветками и ядовитыми семенами.
+
 [**Купина́**](https://ru.wiktionary.org/wiki/купина)&nbsp;(Лк.&nbsp;20:37) — куст или группа кустов.
 
 [**Лани́та**](https://ru.wiktionary.org/wiki/ланита)&nbsp;(Пс.&nbsp;3:8) — щека́.
