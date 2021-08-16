@@ -5,7 +5,7 @@
 {% endif %}
 
 {%- if tags -%}
-  &emsp;Tags:&emsp;
+  &emsp;&emsp;
   {%- capture page_tags -%}
     {%- for tag in tags -%}
       {{ tag }}
@@ -16,7 +16,7 @@
   {%- endcapture -%}
   {%- assign sorted_page_tags = page_tags | split: " " | sort -%}
   {%- for tag in sorted_page_tags -%}
-    <a href="{{ "/tags" | relative_url }}#{{ tag }}">{{ tag | replace:"-", " "}}</a>
-    {%- unless forloop.last -%},{%- endunless -%} 
+    <a href="{{ "/tags" | relative_url }}#{{ tag }}">&lbrack;{{ tag | replace:"-", " "}}&rbrack;</a>
+    {%- unless forloop.last -%},&nbsp;&nbsp;{%- endunless -%} 
   {%- endfor -%}
 {%- endif -%}
