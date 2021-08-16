@@ -1,6 +1,7 @@
 ---
 layout: page
 subtitle: Tags
+title: posts by tags
 permalink: /tags
 lang: en
 
