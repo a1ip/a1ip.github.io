@@ -27,3 +27,5 @@ brew cask install ilya-birman-typography-layout
 ![Постер типографской раскладки](https://ilyabirman.ru/projects/typography-layout/poster/i/typolayout-poster.png)
 
 <script src="https://gist.github.com/a1ip/c4d4e4a9a3d6f694e27d118b48ec6967.js?file=ru_typo_layout.md"></script>
+
+{% include embed.html url="https://www.youtube.com/embed/a_d2njUvrRE" %}
