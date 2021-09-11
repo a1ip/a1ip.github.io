@@ -1,6 +1,6 @@
 ---
 title: YouTube video thumbnails sizes and formats
-tags: useful solutoins lifehack
+tags: useful solutoins lifehacks
 categories: en
 ---
 
