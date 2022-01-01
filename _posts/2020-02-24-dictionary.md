@@ -12,7 +12,7 @@ tags: ☦ Библия
 categories: ru
 ---
 
-[А-Е][0]&emsp;[Ж-Н][1]&emsp;[О-С][2]&emsp;[Т-я][3]
+[А-Е][0]&emsp;[Ж-Н][1]&emsp;[О-С][2]&emsp;[Т-Я][3]
 
 [**А́гнец**](https://ru.wiktionary.org/wiki/агнец)&nbsp;(Ис.&nbsp;53:7) — ягнёнок, барашек.
 
