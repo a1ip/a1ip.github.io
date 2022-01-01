@@ -38,6 +38,8 @@ categories: ru
 
 [**Верже́ние**](https://archaisms.academic.ru/431/вержение)&nbsp;(Лк.&nbsp;22:41) — бросок; бросание, кидание, метание.
 
+[**Волчцы́**](https://ru.wiktionary.org/wiki/волчец)&nbsp;(Быт.&nbsp;3:18) — растение семейства сложноцветных; колючая сорная трава.
+
 [**Вту́не**](https://ru.wiktionary.org/wiki/втуне)&nbsp;(Пс.&nbsp;24:3) — без пользы, напрасно, не достигая цели, без внимания.
 
 [**Вы́я**](https://ru.wiktionary.org/wiki/выя)&nbsp;(Деян.&nbsp;15:10) — ше́я.
