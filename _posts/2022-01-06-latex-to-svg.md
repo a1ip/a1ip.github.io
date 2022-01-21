@@ -2,7 +2,7 @@
 title: LaTeX math formulas in SVG
 lang: en
 description: Export LaTeX math formulas to SVG with MathJax and ObservableHQ
-tags: lifehacks, LaTeX, SVG, Math
+tags: lifehacks LaTeX SVG Math
 categories: en
 ---
 
