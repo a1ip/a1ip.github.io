@@ -12,8 +12,9 @@ If you need linebreaks, and `\\` does not work for you, then wrap formula into t
 
 ![arithmetic progression formula][3]
 
-
+![sin squared sum][4]
 
 [1]: https://observablehq.com/@oberbichler/formulator
 [2]: https://github.com/mathjax/MathJax/issues/2312
 [3]: https://raw.githubusercontent.com/gist/a1ip/e76cb6c0e6d16370f4ebf7a8e650b434/raw/arithmetic-progression.svg
+[4]: https://raw.githubusercontent.com/gist/a1ip/e76cb6c0e6d16370f4ebf7a8e650b434/raw/sin-squared-sum.svg
