@@ -50,9 +50,9 @@ external:                    # see http://fontawesome.com/icons
   - {title: Telegram, icon: telegram, url: "https://t.me/rigovanov"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
-comments:
-  disqus_shortname: "a1ip"                # see https://disqus.com/
-#  isso_domain: ""                  # see https://posativ.org/isso/
+# comments:
+#   disqus_shortname: "a1ip"                # see https://disqus.com/
+#   isso_domain: ""                  # see https://posativ.org/isso/
 
 plugins:
   - jekyll-remote-theme
