@@ -24,3 +24,7 @@ using [this 🗓&nbsp;plan](https://novchurch.github.io/plan/) and hosting my&nb
 <a href="https://braingames.ru" title="Игры разума | a1ip"><img src="https://braingames.ru/button90x62.php?uid=24579" border="0"></a>
 
 <a href="https://www.codewars.com/users/a1ip" title="Codewars | a1ip"><img src="https://www.codewars.com/users/a1ip/badges/micro" border="0"></a>
+
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="http://www.youtube.com/embed/M7lc1UVf-VE?origin=https://rigovanov.ru"
+  frameborder="0"/>
