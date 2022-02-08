@@ -25,6 +25,6 @@ using [this 🗓&nbsp;plan](https://novchurch.github.io/plan/) and hosting my&nb
 
 <a href="https://www.codewars.com/users/a1ip" title="Codewars | a1ip"><img src="https://www.codewars.com/users/a1ip/badges/micro" border="0"></a>
 
-<iframe id="ytplayer" type="text/html" width="640" height="360"
+<iframe id="webcam" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/akjT10sjPTc?origin=https://rigovanov.ru"
   frameborder="0"/>
