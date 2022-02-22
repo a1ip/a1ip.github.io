@@ -1,5 +1,6 @@
 ---
 title: YouTube video thumbnails sizes and formats
+description: YouTube video thumbnails sizes and formats
 tags: useful solutions lifehacks
 categories: en
 ---
