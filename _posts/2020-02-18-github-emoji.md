@@ -1,5 +1,6 @@
 ---
 title: Complete list of github markdown emoji markup
+description: Complete list of github markdown emoji markup
 tags: cheatsheet
 categories: en
 ---
