@@ -1,5 +1,8 @@
 User-agent: *
-Disallow:
+Disallow: /emmet/
+Disallow: /turndown/
+Disallow: /docsy/
+Disallow: /spaces/
 Host: rigovanov.ru
 
 Sitemap: https://rigovanov.ru/sitemap.xml
