@@ -4,7 +4,7 @@ subtitle: Tags
 title: Posts by tags
 permalink: /tags
 lang: en
-
+description: Posts grouped by tags
 ---
 
 {% capture tags %}
