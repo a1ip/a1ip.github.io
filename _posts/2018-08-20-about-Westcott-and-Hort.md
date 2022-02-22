@@ -1,6 +1,7 @@
 ---
 lang: ru
 title: О тексте Westcott and Hort (Уэсткотта и Хорта)
+description: Статья, в которой представлены выдержки из личной переписки Уэсткотта и Хорта
 tags: ☦ Библия
 categories: ru
 ---
