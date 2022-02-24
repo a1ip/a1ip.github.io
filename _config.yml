@@ -12,7 +12,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-remote_theme: niklasbuschmann/contrast@v2.8
+remote_theme: niklasbuschmann/contrast@v3.0
 url: "https://rigovanov.ru"
 bibleref: false
 # baseurl: "/contrast/" # does not include hostname
