@@ -19,3 +19,7 @@ categories: ru
 
 1. Честное применение принципа «Только Писание»,
 2. Рассмотрение контекста.
+
+А по поводу 9-ой главы послания Римлянам предлагаю вам послушать разъяснение Виталия Петрова:
+
+<iframe id="webcam" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/3w78OcUKqKM?origin=https://rigovanov.ru" frameborder="0"/>
