@@ -100,6 +100,8 @@ categories: ru
 
 [**Истязу́ем**](https://ru.wiktionary.org/wiki/истязать)&nbsp;(<cite>Ис.&nbsp;53:7</cite>) — подвержен жестоким пыткам, мучениям; доведён до изнеможения.
 
+[**Камелопа́рд**](https://bible.by/lexicon/nikifor/word/2096/)&nbsp;(<cite>Втор.&nbsp;14:5</cite>) — евр. `זמר`, греч. `καμηλοπάρδαλιν`, имеется в виду животное семейства антилоп.
+
 [**Ко́зни**](https://ru.wiktionary.org/wiki/кознь)&nbsp;(<cite>Еф.&nbsp;6:11</cite>) — лукавство, пронырство, хитрые и злонамеренные проделки.
 
 [**Кор**](https://www.ph4.ru/mera_bread.php)&nbsp;(<cite>3Царств&nbsp;4:22</cite>) — `כר` (синоним хомера), мера объёма сыпучих тел, равная поклаже осла, т.е. предположительно от 200 до 400&nbsp;литров.
@@ -135,6 +137,8 @@ categories: ru
 [**Одесну́ю**](https://ru.wiktionary.org/wiki/одесную)&nbsp;(<cite>Пс.&nbsp;90:7</cite>) — справа.
 
 [**Опре́снок**](https://ru.wiktionary.org/wiki/опреснок)&nbsp;(<cite>Лк.&nbsp;22:1</cite>) — тонкая сухая лепёшка из пресного теста.
+
+[**О́рикс**](https://ru.wiktionary.org/wiki/орикс)&nbsp;(<cite>Втор.&nbsp;14:5</cite>) — евр. `תאו`, греч. `ὄρυγα`, род антилоп.
 
 [**Ора́ть**](https://ru.wiktionary.org/wiki/орать)&nbsp;(<cite>3Царств&nbsp;19:19</cite>) — паха́ть.
 
