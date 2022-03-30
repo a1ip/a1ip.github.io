@@ -164,6 +164,8 @@ categories: ru
 
 [**Пра́вда**](https://dic.academic.ru/dic.nsf/enc2p/331826/ПРАВДА)&nbsp;(<cite>Пс.&nbsp;4:2</cite>) — праведность.
 
+[**Превы́спренний**](https://ru.wiktionary.org/wiki/превыспренний)&nbsp;(<cite>Пс.&nbsp;70:19</cite>) — имеющий очень большую высоту, находящийся очень высоко над землёй .
+
 [**Престо́л**](https://ru.wiktionary.org/wiki/престол)&nbsp;(<cite>Лк.&nbsp;22:30</cite>) — трон монарха.
 
 [**Преще́ние**](https://ru.wiktionary.org/wiki/прещение)&nbsp;(<cite>Пс.&nbsp;75:7</cite>) — гнев, угроза, укор, наказание.
