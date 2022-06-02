@@ -66,6 +66,8 @@ categories: ru
 
 [**Десни́ца**](https://ru.wiktionary.org/wiki/десница)&nbsp;(<cite>Пс.&nbsp;17:36</cite>) — правая рука.
 
+[**Дро́ковый**]([https://ru.wiktionary.org/wiki/десница](https://ru.wikipedia.org/wiki/Дрок))&nbsp;(<cite>Пс.&nbsp;119:4</cite>) — из низкорослого тернистого кустариника семейства бобовых.
+
 [**Дщерь**](https://ru.wiktionary.org/wiki/дщерь)&nbsp;(<cite>Иер.&nbsp;8:19</cite>) — дочь. В Библии так обращались к городам и к их жителям, например, _дщерь Сио́на_, _дщерь Иерусали́ма_ — Иерусалим, жители Иерусалима (<cite>Плач.&nbsp;2:1,13</cite>).
 
 [**Ева́нгелие**](https://ru.wiktionary.org/wiki/Евангелие)&nbsp;(<cite>Мк.&nbsp;1:14</cite>) — добрая весть.
@@ -89,6 +91,8 @@ categories: ru
 [**Зени́ца**](https://ru.wiktionary.org/wiki/зеница)&nbsp;(<cite>Пс.&nbsp;16:8</cite>) — зрачок.
 
 [**И́го**](https://ru.wiktionary.org/wiki/иго)&nbsp;(<cite>Деян.&nbsp;15:10</cite>) — ярмо́, хому́т; деревянный брус или рама, надеваемые на голову или на шею двух животных для их одновременной работы; бремя, гнёт, рабство.
+
+[**Изощрённый**](https://ru.wiktionary.org/wiki/изощрённый)&nbsp;(<cite>Пс.&nbsp;119:4</cite>) — острый, происходит от старославянского: `изострити` — наточить, от `острити` — заострять.
 
 [**Изъязвлён**](https://ru.wiktionary.org/wiki/изъязвлённый)&nbsp;(<cite>Ис.&nbsp;53:5</cite>) — покрыт язвами, ранами.
 
