@@ -40,6 +40,8 @@ categories: ru
 
 [**Ве́но**](https://ru.wiktionary.org/wiki/вено)&nbsp;(<cite>Быт.&nbsp;34:12</cite>) — выкуп за невесту.
 
+[**Вере́я**](https://ru.wiktionary.org/wiki/верея)&nbsp;(<cite>Иез.&nbsp;43:8</cite>) — столб, на который навешивается створка ворот.
+
 [**Верже́ние**](https://archaisms.academic.ru/431/вержение)&nbsp;(<cite>Лк.&nbsp;22:41</cite>) — бросок; бросание, кидание, метание.
 
 [**Вёдро**](https://ru.wiktionary.org/wiki/вёдро)&nbsp;(<cite>Мф.&nbsp;16:2</cite>) — тёплая ясная солнечная сухая погода (не о зимней поре).
