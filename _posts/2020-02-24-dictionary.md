@@ -50,6 +50,8 @@ categories: ru
 
 [**Вту́не**](https://ru.wiktionary.org/wiki/втуне)&nbsp;(<cite>Пс.&nbsp;24:3</cite>) — без пользы, напрасно, не достигая цели, без внимания.
 
+[**Вы́спренний**](https://ru.wiktionary.org/wiki/выспренний)&nbsp;(<cite>Ис.&nbsp;24:21</cite>) — высочайший, наивысший.
+
 [**Вы́я**](https://ru.wiktionary.org/wiki/выя)&nbsp;(<cite>Деян.&nbsp;15:10</cite>) — ше́я.
 
 [**Глаго́лать**](https://ru.wiktionary.org/wiki/глаголать)&nbsp;(<cite>Мф.&nbsp;3:17</cite>) — говорить.
@@ -178,7 +180,7 @@ categories: ru
 
 [**Пра́вда**](https://dic.academic.ru/dic.nsf/enc2p/331826/ПРАВДА)&nbsp;(<cite>Пс.&nbsp;4:2</cite>) — праведность.
 
-[**Превы́спренний**](https://ru.wiktionary.org/wiki/превыспренний)&nbsp;(<cite>Пс.&nbsp;70:19</cite>) — имеющий очень большую высоту, находящийся очень высоко над землёй .
+[**Превы́спренний**](https://ru.wiktionary.org/wiki/превыспренний)&nbsp;(<cite>Пс.&nbsp;70:19</cite>) — имеющий очень большую высоту, находящийся очень высоко над землёй.
 
 [**Престо́л**](https://ru.wiktionary.org/wiki/престол)&nbsp;(<cite>Лк.&nbsp;22:30</cite>) — трон монарха.
 
