@@ -134,6 +134,8 @@ categories: ru
 
 [**Ля́двея**](https://ru.wiktionary.org/wiki/лядвея)&nbsp;(<cite>Иов.&nbsp;15:27</cite>) — бедро.
 
+[**Малоду́шие**](https://ru.wiktionary.org/wiki/малодушие)&nbsp;(<cite>1Фес.&nbsp;5:14</cite>) — недостаток мужества, твёрдости духа, веры и решительности.
+
 [**Межа́**](https://ru.wiktionary.org/wiki/межа)&nbsp;(<cite>Пс.&nbsp;15:6</cite>) — предел, рубеж, граница.
 
 [**Ми́лоть**](https://ru.wiktionary.org/wiki/милоть)&nbsp;(<cite>3Царств&nbsp;19:19</cite>) — `μηλωτή` грубый шерстяной плащ из овечьей шерсти (в других источниках — из овечьей шкуры).
