@@ -158,6 +158,8 @@ categories: ru
 
 [**Оса́нна**](https://ru.wikipedia.org/wiki/Осанна)&nbsp;(<cite>Мф.&nbsp;21:9</cite>) — (арам.) «спаси же!» — торжественное молитвенное восклицание, изначально являвшееся хвалебным возгласом.
 
+[**Отрева́ть**](https://ru.wiktionary.org/wiki/отревать)&nbsp;(<cite>Пс.&nbsp;87:15</cite>) — отвергать, отталкивать.
+
 [**Певг**](https://ru.wikipedia.org/wiki/Певг)&nbsp;(<cite>2Пар.&nbsp;2:8</cite>) — вид дорогого хвойного дерева растущего в ливанских горах.
 
 [**Пе́рси**](https://ru.wiktionary.org/wiki/перси)&nbsp;(<cite>Откр.&nbsp;1:13</cite>) — грудь.
