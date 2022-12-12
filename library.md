@@ -15,7 +15,7 @@ layout: page
 
 <dl>
 <dt><a href="{{ "/Jesus-our-destiny/" | relative_url }}">Вильгельм Буш. «Иисус — наша судьба»</a></dt>
-<dd>Проповеди немецкого пастора, сидевшего за веру в нацистских тюрьмах. Очень понятно, на современном языке, объясняется Евангелие Иисуса Христа. <a href="https://mbchurch.ru/upload/iblock/fb2/Iisus-nasha-sudba.pdf">А здесь эта книга в формате PDF</a>.</dd>
+<dd>Проповеди немецкого пастора, сидевшего за веру в нацистских тюрьмах. Очень понятно, на современном языке, объясняется Евангелие Иисуса Христа. <a href="{{ "/assets/doc/Jesus_Our_Destiny.pdf" | relative_url }}">А здесь эта книга в формате PDF</a>.</dd>
 <dt><a href="{{ "/assets/doc/The_Challenge_of_Missions.pdf" | relative_url }}">Освальд Дж. Смит. «КТО, ЕСЛИ НЕ Я?» (The Challenge of Missions)</a></dt>
 <dd>Каждый член церкви должен понимать как важна миссия не затронутым евангельской вестью народам.</dd>
 <dt><a href="{{ "/Pilgrims-Progress/" | relative_url }}">Джон Буньян. «Путешествие Пилигрима в Небесную страну»</a></dt>
