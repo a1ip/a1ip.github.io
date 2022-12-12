@@ -6,7 +6,7 @@ tags: ☦ стихи классика Хомяков
 categories: ru
 ---
 
-![Портрет Хомякова Алексея Степановича (1804—1860)](/assets/img/blog/khomyakov.jpg)
+![Портрет Хомякова Алексея Степановича (1804—1860)]({{ "/assets/img/blog/khomyakov.jpg" | relative_url }})
 
 ## По прочтении псалма
 
