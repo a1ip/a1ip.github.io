@@ -1,11 +1,13 @@
 ---
-title: Изменить браузер по умолчанию в Ubuntu
+title: Настройки Ubuntu
 lang: ru
-description: сделать Google Chrome браузером по умолчанию в Ubuntu
+description: Записки себе на память, о решении проблем при настройке Ubuntu
 tags: linux
 categories: ru
 layout: post
 ---
+
+## Изменить браузер по умолчанию
 
 У меня долго не получалось изменить браузер по умолчанию. Помогли следующие команды:
 
@@ -31,3 +33,26 @@ xdg-mime query default x-scheme-handler/http
 xdg-mime query default x-scheme-handler/https
 xdg-mime query default x-scheme-handler/about
 ```
+
+## Установка шрифтов
+
+https://losst.pro/ustanovka-shriftov-v-linux
+
+Нужно просто создать папку и поместить в неё файлы шрифтов, возможно даже во вложеных папках.
+
+```bash
+mkdir ~/.fonts
+```
+Следующая команда обновит кэш шрифтов системы:
+
+```bash
+fc-cache -f -v
+```
+
+## Делаем эмулятор терминала QTerminal прозрачным
+
+https://askubuntu.com/questions/1121400/lubuntu-18-10-qterminal-window-transparency-setting
+
+В настройках сессии LXQt нужно поставить галочку у пункта `Compton`
+
+Тогда появятся новые настройки `Эффекты окна`
