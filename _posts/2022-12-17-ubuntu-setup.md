@@ -56,3 +56,11 @@ https://askubuntu.com/questions/1121400/lubuntu-18-10-qterminal-window-transpare
 В настройках сессии LXQt нужно поставить галочку у пункта `Compton`
 
 Тогда появятся новые настройки `Эффекты окна`
+
+## Сменить командную оболочку при запуске QTerminal
+
+В настройках сеанса параметр `TERM` установить
+
+```bash
+qterminal -e "fish --login"
+```
