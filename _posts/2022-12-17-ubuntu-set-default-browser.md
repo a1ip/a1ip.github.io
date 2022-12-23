@@ -10,6 +10,13 @@ layout: post
 У меня долго не получалось изменить браузер по умолчанию. Помогли следующие команды:
 
 ```bash
+sudo update-alternatives --config x-www-browser
+sudo update-alternatives --config gnome-www-browser
+```
+
+Возможно нужно было ещё выполнить и ниследующие (но без вышеукзанных, точно не заработало):
+
+```bash
 xdg-mime default google-chrome.desktop text/html
 xdg-mime default google-chrome.desktop x-scheme-handler/http
 xdg-mime default google-chrome.desktop x-scheme-handler/https
