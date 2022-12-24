@@ -44,7 +44,7 @@ xdg-mime query default x-scheme-handler/about
 
 ## Установка шрифтов
 
-https://losst.pro/ustanovka-shriftov-v-linux
+<https://losst.pro/ustanovka-shriftov-v-linux>
 
 Нужно просто создать папку и поместить в неё файлы шрифтов, возможно даже во вложеных папках.
 
@@ -59,7 +59,7 @@ fc-cache -f -v
 
 ## Делаем эмулятор терминала QTerminal прозрачным
 
-https://askubuntu.com/questions/1121400/lubuntu-18-10-qterminal-window-transparency-setting
+<https://askubuntu.com/questions/1121400/lubuntu-18-10-qterminal-window-transparency-setting>
 
 В настройках сессии LXQt нужно поставить галочку у пункта `Compton`
 
@@ -76,4 +76,4 @@ qterminal -e "fish --login"
 
 Всё по этому руководству:
 
-https://linuxcool.ru/ustanovka-firefox-developer-v-ubuntu-linux-mint-i-drugie/
+<https://linuxcool.ru/ustanovka-firefox-developer-v-ubuntu-linux-mint-i-drugie/>
