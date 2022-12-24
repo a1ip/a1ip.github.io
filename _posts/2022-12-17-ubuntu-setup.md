@@ -9,11 +9,33 @@ layout: post
 
 ## Добавить возможность набирать символы юникода
 
-Я добавил файл `~/.xinitrc` содержащий одну строку:
+Я добавил файл `~/.config/lxqt/session.conf ` в раздел `[Keyboard]` строку :
+
+```
+options=compose:rwin, grp_led:scroll, grp:alt_shift_toggle
+```
+Так что раздел стал выглядеть вот так:
+
+```
+[Keyboard]
+beep=true
+delay=500
+interval=30
+layout="us,ru"
+model=pc105
+numlock=true
+options=compose:rwin, grp_led:scroll, grp:alt_shift_toggle
+variant=","
+```
+
+Может быть можно прописать в автозапуск, если непонятно какие конфиги менять:
 
 ```
 setxkbmap -layout "us,ru" -option "grp:alt_shift_toggle,compose:rwin" -variant ","
 ```
+
+Важное замечание: если используется файл со своими комбинациями `~/.XCompose`, то он
+отключает все комбинации по умолчанию, прописанные в файле `/usr/share/X11/locale/en_US.UTF-8/Compose`.
 
 ## Изменить браузер по умолчанию
 
