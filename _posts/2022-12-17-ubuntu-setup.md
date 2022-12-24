@@ -72,3 +72,8 @@ https://askubuntu.com/questions/1121400/lubuntu-18-10-qterminal-window-transpare
 ```bash
 qterminal -e "fish --login"
 ```
+## Добавляем Firefox Developer Edition
+
+Всё по этому руководству:
+
+https://linuxcool.ru/ustanovka-firefox-developer-v-ubuntu-linux-mint-i-drugie/
