@@ -1,5 +1,5 @@
 ---
-title: "Xmas and Christmas: A Lost Chapter from Herodotus by C. S. Lewis"
+title: "“Xmas and Christmas: A Lost Chapter from Herodotus” by C. S. Lewis"
 author: C. S. Lewis
 lang: en
 description: An ironic little essay by C. S. Lewis
