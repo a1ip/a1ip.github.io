@@ -2,7 +2,7 @@
 title: "“Xmas and Christmas: A Lost Chapter from Herodotus” by C. S. Lewis"
 author: C. S. Lewis
 lang: en
-description: An ironic little essay by C. S. Lewis
+description: An ironic little essay by C. S. Lewis published in 1954.
 tags: ☦
 categories: en
 layout: post
@@ -81,5 +81,7 @@ priests tell about Crissmas. And secondly, the most part of the Niatirbians, not
 religion of the few, nevertheless send the gifts and cards and participate in the Rush and drink,
 wearing paper caps. But it is not likely that men, even being barbarians, should suffer so many and
 great things in honour of a god they do not believe in. And now, enough about Niatirb.
+
+Published in 1954.
 
 ![Portrait of C. S. Lewis]({{ "/assets/img/blog/cslewis.jpg" | relative_url }})
