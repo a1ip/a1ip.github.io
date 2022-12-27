@@ -81,3 +81,5 @@ priests tell about Crissmas. And secondly, the most part of the Niatirbians, not
 religion of the few, nevertheless send the gifts and cards and participate in the Rush and drink,
 wearing paper caps. But it is not likely that men, even being barbarians, should suffer so many and
 great things in honour of a god they do not believe in. And now, enough about Niatirb.
+
+![Portrait of C. S. Lewis]({{ "/assets/img/blog/cslewis.jpg" | relative_url }})
