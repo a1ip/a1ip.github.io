@@ -99,3 +99,13 @@ qterminal -e "fish --login"
 Всё по этому руководству:
 
 <https://linuxcool.ru/ustanovka-firefox-developer-v-ubuntu-linux-mint-i-drugie/>
+
+## Микрофон в bluetooth гарнитуре
+
+Чтобы заработал микрофон в bluetooth гарнитуре, я зашёл в настройки `pulseaudio`, можно командой:
+
+```bash
+pavucontrol-qt
+```
+
+И во вкладке `Конфигурация` в профиле мне пришлось выбрать `Handsfree Head Unit (HFP)` вместо `High Fidelity Playback (A2DP Sink)` и тогда микрофон заработал!
