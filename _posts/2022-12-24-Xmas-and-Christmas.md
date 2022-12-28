@@ -82,6 +82,6 @@ religion of the few, nevertheless send the gifts and cards and participate in th
 wearing paper caps. But it is not likely that men, even being barbarians, should suffer so many and
 great things in honour of a god they do not believe in. And now, enough about Niatirb.
 
-Published in 1954.
+First published in 1954.
 
 ![Portrait of C. S. Lewis]({{ "/assets/img/blog/cslewis.jpg" | relative_url }})
