@@ -109,3 +109,19 @@ pavucontrol-qt
 ```
 
 И во вкладке `Конфигурация` в профиле мне пришлось выбрать `Handsfree Head Unit (HFP)` вместо `High Fidelity Playback (A2DP Sink)` и тогда микрофон заработал!
+
+## Увеличение шрифта в адресной строке браузеров на движке Chromium
+
+Сперва
+
+```bash
+cp /usr/share/applications/google-chrome.desktop ~/.local/share/applications
+cp /var/lib/snapd/desktop/applications/brave_brave.desktop ~/.local/share/applications
+```
+
+В скопированных файлах нужно добавить в параметры запуска `--force-device-scale-factor=1.6`.
+Так что теперь у меня в файле `~/.local/share/applications/google-chrome.desktop`:
+
+```
+Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=1.6 %U
+```
