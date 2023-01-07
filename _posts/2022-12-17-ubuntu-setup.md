@@ -37,33 +37,6 @@ setxkbmap -layout "us,ru" -option "grp:alt_shift_toggle,compose:rwin" -variant "
 Важное замечание: если используется файл со своими комбинациями `~/.XCompose`, то он
 отключает все комбинации по умолчанию, прописанные в файле `/usr/share/X11/locale/en_US.UTF-8/Compose`.
 
-## Изменить браузер по умолчанию
-
-У меня долго не получалось изменить браузер по умолчанию. Помогли следующие команды:
-
-```bash
-sudo update-alternatives --config x-www-browser
-sudo update-alternatives --config gnome-www-browser
-```
-
-Возможно нужно было ещё выполнить и ниследующие (но без вышеукзанных, точно не заработало):
-
-```bash
-xdg-mime default google-chrome.desktop text/html
-xdg-mime default google-chrome.desktop x-scheme-handler/http
-xdg-mime default google-chrome.desktop x-scheme-handler/https
-xdg-mime default google-chrome.desktop x-scheme-handler/about
-```
-
-Можно проверить установленные значения так:
-
-```bash
-xdg-mime query default text/html
-xdg-mime query default x-scheme-handler/http
-xdg-mime query default x-scheme-handler/https
-xdg-mime query default x-scheme-handler/about
-```
-
 ## Установка шрифтов
 
 <https://losst.pro/ustanovka-shriftov-v-linux>
@@ -124,4 +97,49 @@ cp /var/lib/snapd/desktop/applications/brave_brave.desktop ~/.local/share/applic
 
 ```
 Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=1.6 %U
+```
+
+## Изменить браузер по умолчанию
+
+У меня долго не получалось изменить браузер по умолчанию. Помогли следующие команды:
+
+```bash
+update-alternatives --config x-www-browser
+update-alternatives --config gnome-www-browser
+```
+
+Возможно нужно было ещё выполнить и ниследующие (но без вышеукзанных, точно не заработало):
+
+```bash
+xdg-mime default google-chrome.desktop text/html
+xdg-mime default google-chrome.desktop x-scheme-handler/http
+xdg-mime default google-chrome.desktop x-scheme-handler/https
+xdg-mime default google-chrome.desktop x-scheme-handler/about
+```
+
+А для Brave браузера установленного из snap
+
+```bash
+xdg-mime default brave_brave.desktop text/html
+xdg-mime default brave_brave.desktop x-scheme-handler/http
+xdg-mime default brave_brave.desktop x-scheme-handler/https
+xdg-mime default brave_brave.desktop x-scheme-handler/about
+```
+
+Можно проверить установленные значения так:
+
+```bash
+xdg-mime query default text/html
+xdg-mime query default x-scheme-handler/http
+xdg-mime query default x-scheme-handler/https
+xdg-mime query default x-scheme-handler/about
+```
+
+В файле `~/.config/mimeapps.list` в `Default Applications` и `Added Associations` должно быть прописано `brave_brave.desktop`.
+
+А вместо файлов `~/.local/share/mimeapps.list` `~/.local/share/applications/mimeapps.list` у меня ссылки на файл `~/.config/mimeapps.list`.
+
+```bash
+ln -s ~/.config/mimeapps.list ~/.local/share/mimeapps.list
+ln -s ~/.config/mimeapps.list ~/.local/share/applications/mimeapps.list
 ```
