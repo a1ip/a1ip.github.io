@@ -143,3 +143,11 @@ xdg-mime query default x-scheme-handler/about
 ln -s ~/.config/mimeapps.list ~/.local/share/mimeapps.list
 ln -s ~/.config/mimeapps.list ~/.local/share/applications/mimeapps.list
 ```
+
+## Не отображаются Unicode Emoji
+
+Проблема решилась установкой шрифтов в систему. А каких именно шрифтов — не знаю, возможно:
+
+```bash
+sudo apt install fonts-recommended
+```
