@@ -83,21 +83,21 @@ http://video.inmedis.ru/hls/361559_c2f7a1dc0385e4be41ae95c74c990428/seg-19-f1-v1
 
 Скачал все файлики в текущую папку с именами содержащими лишь номер файла, одной командой для [FishShell](https://fishshell.com/): 
 
-```bash
+{% highlight fish %}
 for n in (seq 19)
     http -o $n.ts -d video.inmedis.ru/hls/361559_c2f7a1dc0385e4be41ae95c74c990428/seg-$n-f1-v1-a1.ts
 end
-```
+{% endhighlight %}
 
 ## Шаг 3. Склеиваем фрагменты в один файл 
 
 Создал файл `frames.txt` со списком этих файлов в формате удобном для `ffmpeg`:
 
-```bash
+{% highlight fish %}
 for x in (seq 19)
     echo file \'$x.ts\' >> frames.txt
 end
-```
+{% endhighlight %}
 
 И наконец склеил все скачаные фрагменты в один файл `news.ts`:
 
