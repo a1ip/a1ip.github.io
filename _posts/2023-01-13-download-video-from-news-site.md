@@ -1,5 +1,5 @@
 ---
-title: Скачать видео с новостного сайта
+title: Скачиваем видео с новостного сайта
 lang: ru
 description: Мой успешный опыт закачки видео с новостного сайта
 tags: linux fishshell shell lifehacks
