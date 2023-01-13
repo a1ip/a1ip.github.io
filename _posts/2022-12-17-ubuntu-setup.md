@@ -102,14 +102,14 @@ sudo apt install unar
 
 ```bash
 cp /usr/share/applications/google-chrome.desktop ~/.local/share/applications
-cp /var/lib/snapd/desktop/applications/brave_brave.desktop ~/.local/share/applications
+cp /usr/share/applications/brave-browser.desktop ~/.local/share/applications
 ```
 
-В скопированных файлах нужно добавить в параметры запуска `--force-device-scale-factor=1.6`.
+В скопированных файлах нужно добавить в параметры запуска `--force-device-scale-factor=1.5`.
 Так что теперь у меня в файле `~/.local/share/applications/google-chrome.desktop`:
 
 ```
-Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=1.6 %U
+Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=1.5 %U
 ```
 
 ## Изменить браузер по умолчанию
@@ -148,7 +148,7 @@ xdg-mime query default x-scheme-handler/https
 xdg-mime query default x-scheme-handler/about
 ```
 
-В файле `~/.config/mimeapps.list` в `Default Applications` и `Added Associations` должно быть прописано `brave_brave.desktop`.
+В файле `~/.config/mimeapps.list` в `Default Applications` и `Added Associations` должно быть прописано `brave-browser.desktop`.
 
 А вместо файлов `~/.local/share/mimeapps.list` `~/.local/share/applications/mimeapps.list` у меня ссылки на файл `~/.config/mimeapps.list`.
 
