@@ -16,7 +16,7 @@ layout: post
 player.src([{"src":"https:\/\/video.inmedis.ru\/hls\/361559_c2f7a1dc0385e4be41ae95c74c990428\/master.m3u8","type":"application\/x-mpegURL"}]);
 ```
 
-Посмотрел содержимое этого файла `https://video.inmedis.ru/hls/361559_c2f7a1dc0385e4be41ae95c74c990428/master.m3u8`:
+Посмотрел содержимое этого файла <span style="display:inline-block;overflow-x: auto">`https://video.inmedis.ru/hls/361559_c2f7a1dc0385e4be41ae95c74c990428/master.m3u8`</span>:
 
 ```
 #EXTM3U
@@ -29,7 +29,7 @@ http://video.inmedis.ru/hls/361559_c2f7a1dc0385e4be41ae95c74c990428/index-f2-v1-
 #EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=101294,RESOLUTION=1280x720,CODECS="avc1.64001f",URI="http://video.inmedis.ru/hls/361559_c2f7a1dc0385e4be41ae95c74c990428/iframes-f2-v1-a1.m3u8"
 ```
 
-Затем содержимое этого файла `http://video.inmedis.ru/hls/361559_c2f7a1dc0385e4be41ae95c74c990428/index-f1-v1-a1.m3u8`:
+Затем содержимое этого файла <span style="display:inline-block;overflow-x: auto">`http://video.inmedis.ru/hls/361559_c2f7a1dc0385e4be41ae95c74c990428/index-f1-v1-a1.m3u8`</span>:
 
 ```
 #EXTM3U
