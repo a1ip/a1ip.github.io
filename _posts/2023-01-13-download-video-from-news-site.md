@@ -81,9 +81,9 @@ http://video.inmedis.ru/hls/361559_c2f7a1dc0385e4be41ae95c74c990428/seg-19-f1-v1
 
 ## Шаг 2. Скачиваем фрагменты 
 
-Скачиваю все файлики в текущую папку с именами содержащими лишь номер файла, одной командой для [FishShell](https://fishshell.com/): 
+Скачал все файлики в текущую папку с именами содержащими лишь номер файла, одной командой для [FishShell](https://fishshell.com/): 
 
-```fish
+```bash
 for n in (seq 19)
     http -o $n.ts -d video.inmedis.ru/hls/361559_c2f7a1dc0385e4be41ae95c74c990428/seg-$n-f1-v1-a1.ts
 end
@@ -93,7 +93,7 @@ end
 
 Создал файл `frames.txt` со списком этих файлов в формате удобном для `ffmpeg`:
 
-```fish
+```bash
 for x in (seq 19)
     echo file \'$x.ts\' >> frames.txt
 end
