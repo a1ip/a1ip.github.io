@@ -36,6 +36,8 @@ categories: ru
 
 [**Бре́ние**](https://ru.wiktionary.org/wiki/брение)&nbsp;(<cite>Ин.&nbsp;9:6</cite>) — распущенная глина, грязь.
 
+[**Булава́**](https://ru.wiktionary.org/wiki/булава)&nbsp;(<cite>Иов&nbsp;41:21</cite>) — ударное холодное оружие в виде тяжёлого металлического шара на рукоятке.
+
 [**Ве́дать**](https://ru.wiktionary.org/wiki/ведать)&nbsp;(<cite>Пс.&nbsp;75:2</cite>) — знать (от этого слова современные слова: осведомитель, разведчик, заведующий, а также слово «весть» и его производные).
 
 [**Ве́жда**](https://ru.wiktionary.org/wiki/вежда)&nbsp;(<cite>Пс.&nbsp;10:4</cite>) — ве́ко.
@@ -171,6 +173,10 @@ categories: ru
 [**Певг**](https://ru.wikipedia.org/wiki/Певг)&nbsp;(<cite>2Пар.&nbsp;2:8</cite>) — вид дорогого хвойного дерева растущего в ливанских горах.
 
 [**Пе́рси**](https://ru.wiktionary.org/wiki/перси)&nbsp;(<cite>Откр.&nbsp;1:13</cite>) — грудь.
+
+[**Пла́менник**](https://ru.wiktionary.org/wiki/пламенник)&nbsp;(<cite>Иов&nbsp;41:11</cite>) — факел.
+
+[**Плева́**](https://ru.wiktionary.org/wiki/плева)&nbsp;(<cite>Иов&nbsp;41:20</cite>) — (в тексте в вин.п. плеву́) здесь устар. сено, солома.
 
 [**Пло́тский**](https://ru.wiktionary.org/wiki/плотский)&nbsp;(<cite>2Пар.&nbsp;32:8</cite>) — относящийся к плоти или телу.
 
