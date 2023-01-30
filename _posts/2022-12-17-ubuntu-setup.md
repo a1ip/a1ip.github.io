@@ -112,6 +112,11 @@ cp /usr/share/applications/brave-browser.desktop ~/.local/share/applications
 Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=1.5 %U
 ```
 
+## Иконка пользователя на экране входа в систему
+
+В Lubuntu иконка для пользователя с логином `username` берётся из файла `/usr/share/sddm/faces/username.face.icon`. Подробная инструкция [здесь](https://askubuntu.com/questions/1261067/how-do-i-set-a-picture-for-my-user-on-the-login-screen-in-lubuntu-20-04).
+
+
 ## Изменить браузер по умолчанию
 
 У меня долго не получалось изменить браузер по умолчанию. Помогли следующие команды:
