@@ -174,9 +174,9 @@ categories: ru
 
 [**Пе́рси**](https://ru.wiktionary.org/wiki/перси)&nbsp;(<cite>Откр.&nbsp;1:13</cite>) — грудь.
 
-[**Пе́рст**](https://ru.wiktionary.org/wiki/перст)&nbsp;(<cite>Исх.&nbsp;8:19</cite>) — палец на руке.
+[**Перст**](https://ru.wiktionary.org/wiki/перст)&nbsp;(<cite>Исх.&nbsp;8:19</cite>) — палец на руке.
 
-[**Пе́рсть**](https://ru.wiktionary.org/wiki/персть)&nbsp;(<cite>Исх.&nbsp;8:17</cite>) — земной прах, пыль.
+[**Персть**](https://ru.wiktionary.org/wiki/персть)&nbsp;(<cite>Исх.&nbsp;8:17</cite>) — земной прах, пыль.
 
 [**Пла́менник**](https://ru.wiktionary.org/wiki/пламенник)&nbsp;(<cite>Иов&nbsp;41:11</cite>) — факел.
 
