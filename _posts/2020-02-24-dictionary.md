@@ -210,6 +210,8 @@ categories: ru
 
 [**Присносу́щный**](https://slovar.cc/rel/cerkov/2321096.html)&nbsp;(<cite>Дан.&nbsp;4:31</cite>) — всегда существующий, вечный.
 
+[**При́точник**](https://ru.wiktionary.org/wiki/приточник)&nbsp;(<cite>Чис.&nbsp;21:27</cite>) — тот, кто сочиняет притчи, говорит притчами.
+
 [**Рамена́**](https://ru.wiktionary.org/wiki/рамена)&nbsp;(<cite>Исх.&nbsp;28:12</cite>) — плечи.
 
 [**Рассла́бленный**](https://ru.wiktionary.org/wiki/расслабленный)&nbsp;(<cite>Мф.&nbsp;4:24</cite>) — парализованный.
