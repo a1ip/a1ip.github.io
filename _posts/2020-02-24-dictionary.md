@@ -204,6 +204,9 @@ categories: ru
 
 [**Превы́спренний**](https://ru.wiktionary.org/wiki/превыспренний)&nbsp;(<cite>Пс.&nbsp;70:19</cite>) — имеющий очень большую высоту, находящийся очень высоко над землёй.
 
+[**Преложи́ть**](https://azbyka.ru/otechnik/Spravochniki/slovar-trudnyh-slov-iz-bogosluzhenija-tserkovnoslavjano-russkie-paronimy/18_226)&nbsp;(<cite>Пс.&nbsp;104:29</cite>)
+— претворить, превратить.
+
 [**Престо́л**](https://ru.wiktionary.org/wiki/престол)&nbsp;(<cite>Лк.&nbsp;22:30</cite>) — трон монарха.
 
 [**Преще́ние**](https://ru.wiktionary.org/wiki/прещение)&nbsp;(<cite>Пс.&nbsp;75:7</cite>) — гнев, угроза, укор, наказание.
@@ -237,6 +240,8 @@ categories: ru
 [**Ситти́м**](https://bible_dic_ru.academic.ru/3746/ситтим)&nbsp;(<cite>Исх.&nbsp;25:13</cite>) — акация.
 
 [**Ски́мен**](https://vasmer.lexicography.online/с/скимен)&nbsp;(<cite>Пс.&nbsp;16:12</cite>) — молодой лев, львёнок.
+
+[**Скни́па**](https://ru.wiktionary.org/wiki/скнипа)&nbsp;(<cite>Пс.&nbsp;104:31</cite>) — вошь.
 
 [**Смоко́вница**](https://ru.wiktionary.org/wiki/смоковница)&nbsp;(<cite>Числа&nbsp;20:5</cite>) — субтропическое дерево семейства тутовых рода фикусов с твёрдой древесиной и съедобными плодами; сикомор; инжир, фиговое дерево.
 
