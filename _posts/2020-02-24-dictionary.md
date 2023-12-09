@@ -261,6 +261,8 @@ categories: ru
 
 [**Стезя́**](https://ru.wiktionary.org/wiki/стезя)&nbsp;(<cite>Мф.&nbsp;3:3</cite>) — путь, дорога.
 
+[**Стена́ть**](https://ru.wiktionary.org/wiki/стенать)&nbsp;(<cite>Пс.&nbsp;54:3</cite>) — жалобно стонать; тяжело страдать, мучиться.
+
 [**Сума́**](https://ru.wiktionary.org/wiki/сума)&nbsp;(<cite>Лк.&nbsp;22:35</cite>) — дорожная сумка, на ремне, через плечо.
 
 <span id="3"></span>
