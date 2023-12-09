@@ -25,7 +25,7 @@ categories: ru
 
 Очень рад был найти единомышлеников в этом вопросе в учении православных братьев:
 
-{% include embed.html url="https://www.youtube.com/embed/UgkxzHGzpiCZ5IUb3v5-NUdXl-5732n8YJyo" %}
+{% include embed.html url="https://www.youtube.com/embed/clip/UgkxzHGzpiCZ5IUb3v5-NUdXl-5732n8YJyo" %}
 
 ### [Вестминстерское Исповедание Веры о повторном браке](http://www.cprf.co.uk/languages/russian_WCFremarriage.htm)
 
