@@ -263,6 +263,8 @@ categories: ru
 
 [**Стена́ть**](https://ru.wiktionary.org/wiki/стенать)&nbsp;(<cite>Пс.&nbsp;54:3</cite>) — жалобно стонать; тяжело страдать, мучиться.
 
+[**Стяжа́ние**](https://ru.wiktionary.org/wiki/стяжание)&nbsp;(<cite>Пр.&nbsp;10:3</cite>) — накопление материальных ценностей, денег; имущество.
+
 [**Сума́**](https://ru.wiktionary.org/wiki/сума)&nbsp;(<cite>Лк.&nbsp;22:35</cite>) — дорожная сумка, на ремне, через плечо.
 
 <span id="3"></span>
