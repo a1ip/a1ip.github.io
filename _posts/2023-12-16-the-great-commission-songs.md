@@ -7,6 +7,8 @@ categories: ru
 
 ## Я хочу быть жнецом
 
+Автор: Лилия Буханцова (Ксенофонтова)
+
 {% include embed.html url="https://www.youtube.com/embed/ViWrgAHWqgw" %}
 
 Я хочу быть жнецом! Ты отправь меня, Боже,  
@@ -31,7 +33,9 @@ categories: ru
 
 ---
 
-## Кого же Мне послать
+## Кого же Мне послать?
+
+Автор: Лилия Буханцова (Ксенофонтова)
 
 {% include embed.html url="https://www.youtube.com/embed/hmAlqfMGNuM" %}
 
@@ -71,5 +75,3 @@ categories: ru
 
 ////Таких поклонников Господь наш ищет.////  
 Господь наш ищет.
-
-Автор: Лилия Буханцова (Ксенофонтова)
