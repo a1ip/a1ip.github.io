@@ -9,7 +9,7 @@ categories: ru
 
 Автор: Лилия Буханцова (Ксенофонтова)
 
-{% include embed.html url="https://www.youtube.com/embed/ViWrgAHWqgw?loop=1" %}
+{% include embed.html url="https://www.youtube.com/embed/ViWrgAHWqgw?loop=1&playlist=ViWrgAHWqgw" %}
 
 Я хочу быть жнецом! Ты отправь меня, Боже,  
 Ты отправь в самый центр событий Своих!  
@@ -37,7 +37,7 @@ categories: ru
 
 Автор: Лилия Буханцова (Ксенофонтова)
 
-{% include embed.html url="https://www.youtube.com/embed/hmAlqfMGNuM?loop=1" %}
+{% include embed.html url="https://www.youtube.com/embed/hmAlqfMGNuM?loop=1&playlist=hmAlqfMGNuM" %}
 
 «Кого же Мне послать, и кто пойдёт?» —  
 Вопрос из уст Господних раздаётся. —  
