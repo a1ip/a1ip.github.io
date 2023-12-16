@@ -1,5 +1,5 @@
 ---
-title: Песни о великом поручении
+title: Песни о Великом Поручении
 lang: ru
 tags: ☦ песни
 categories: ru
