@@ -13,7 +13,7 @@ categories: ru
 
 {% include embed.html url="https://www.youtube.com/embed/ViWrgAHWqgw?loop=1&playlist=ViWrgAHWqgw" %}
 
-Я хочу быть жнецом! Ты отправь меня, Боже,  
+Я хочу быть жнецом! Ты направь меня, Боже,  
 Ты отправь в самый центр событий Своих!  
 И хотя моя воля с Твоей не похожи,  
 Дай отвергнуть себя ради жизни других.
