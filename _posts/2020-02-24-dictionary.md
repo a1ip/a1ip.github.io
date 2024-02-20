@@ -138,7 +138,7 @@ categories: ru
 
 [**Ложесна́**](https://ru.wiktionary.org/wiki/ложесна)&nbsp;(<cite>Лк.&nbsp;2:23</cite>) — матка, утроба, чрево матери; место, где зарождается и созревает плод. [**Разверза́ющий ложесна́**](https://ru.wiktionary.org/wiki/разверзающий_ложесна) — (фразеологизм) прорывающий, открывающий утробу матери, т.е. пе́рвенец.
 
-[**Ло́но**](https://ru.wiktionary.org/wiki/лоно)&nbsp;(<cite>Лк.&nbsp;16:22</cite>) — грудь.
+[**Ло́но**](https://ru.wiktionary.org/wiki/лоно)&nbsp;(<cite>Лк.&nbsp;16:22</cite>) — грудь, пазуха.
 
 [**Ля́двея**](https://ru.wiktionary.org/wiki/лядвея)&nbsp;(<cite>Иов.&nbsp;15:27</cite>) — бедро.
 
