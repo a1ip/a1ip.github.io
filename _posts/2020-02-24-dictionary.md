@@ -216,6 +216,7 @@ categories: ru
 [**Преще́ние**](https://ru.wiktionary.org/wiki/прещение)&nbsp;(<cite>Пс.&nbsp;75:7</cite>) — гнев, угроза, укор, наказание.
 
 [**Прии́дет**](https://ru.wiktionary.org/wiki/приидет)&nbsp;(<cite>Мф.&nbsp;6:10</cite>) — придёт.
+
 [**Присносу́щный**](https://slovar.cc/rel/cerkov/2321096.html)&nbsp;(<cite>Дан.&nbsp;4:31</cite>) — всегда существующий, вечный.
 
 [**При́точник**](https://ru.wiktionary.org/wiki/приточник)&nbsp;(<cite>Чис.&nbsp;21:27</cite>) — тот, кто сочиняет притчи, говорит притчами.
