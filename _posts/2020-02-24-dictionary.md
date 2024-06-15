@@ -122,6 +122,8 @@ categories: ru
 
 [**Ко́зни**](https://ru.wiktionary.org/wiki/кознь)&nbsp;(<cite>Еф.&nbsp;6:11</cite>) — лукавство, пронырство, хитрые и злонамеренные проделки.
 
+[**Ко́льми паче**](https://ru.wiktionary.org/wiki/кольми)&nbsp;(<cite>Мф.&nbsp;6:30</cite>) — насколько больше, сильнее; тем более; более чем.
+
 [**Кор**](https://www.ph4.ru/mera_bread.php)&nbsp;(<cite>3Царств&nbsp;4:22</cite>) — `כר` (синоним хомера), мера объёма сыпучих тел, равная поклаже осла, т.е. предположительно от 200 до 400&nbsp;литров.
 
 [**Крести́ть**](https://ru.wikipedia.org/wiki/Крещение)&nbsp;(<cite>Мф.&nbsp;3:6</cite>) — окунать, погружать в воду.
@@ -213,6 +215,7 @@ categories: ru
 
 [**Преще́ние**](https://ru.wiktionary.org/wiki/прещение)&nbsp;(<cite>Пс.&nbsp;75:7</cite>) — гнев, угроза, укор, наказание.
 
+[**Прии́дет**](https://ru.wiktionary.org/wiki/приидет)&nbsp;(<cite>Мф.&nbsp;6:10</cite>) — придёт.
 [**Присносу́щный**](https://slovar.cc/rel/cerkov/2321096.html)&nbsp;(<cite>Дан.&nbsp;4:31</cite>) — всегда существующий, вечный.
 
 [**При́точник**](https://ru.wiktionary.org/wiki/приточник)&nbsp;(<cite>Чис.&nbsp;21:27</cite>) — тот, кто сочиняет притчи, говорит притчами.
