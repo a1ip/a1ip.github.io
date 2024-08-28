@@ -5,7 +5,7 @@ layout: compress
 <!DOCTYPE html>
 <html lang="{{ lang }}">
 <head>
-<title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title[lang] | escape }}</title>
+<title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ page.author | default: site.title[lang] | escape }}</title>
 <meta charset="{{ site.encoding }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="{{ page.description | default: page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}">
