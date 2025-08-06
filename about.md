@@ -11,6 +11,7 @@ layout: page
 ---
 
 My name is <a href="{{ site.links.vcard }}" title="My Visit Card"><cite>Philippe&nbsp;Rigovanov</cite></a>.
+I am a husband of one wife. 
 I am a radical&nbsp;christian, baptist (Textus&nbsp;Receptus&nbsp;Onlyist, not&nbsp;calvinist, not&nbsp;dispensationalist, supersessionist),
 math and informatics teacher interested in 🎓&nbsp;education, 🎲&nbsp;statistics, 📈&nbsp;Data&nbsp;Analysis,
 📊&nbsp;Data&nbsp;Visualisation, Machine&nbsp;Learning, 🗣&nbsp;Natural&nbsp;Language&nbsp;Processing and 🕸&nbsp;Web&nbsp;Technologies
